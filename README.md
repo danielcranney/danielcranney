@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Dan!
 - 👀  I’m interested in building apps and websites that look good, and make people's lives easier. I love learning new things, and solving problems!
-- 🌱  I’m currently learning Javascript and React.
+- 🌱  I’m currently learning Javascript and React, and started learning to code in October 2020.
 - 💞️  I’m looking to collaborate on exciting projects either as a developer or designer!
 - 📫  You can contact me at danieljamescranney@gmail.com.
 
