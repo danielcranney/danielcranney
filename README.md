@@ -1,26 +1,37 @@
-![Your Name](/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79528133%3Fv%3D4&w=256&q=75)
+If you are seeing this, it is because I am testing a new project ; )![Daniel Cranney + avatar](/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79528133%3Fv%3D4&w=256&q=75)
 
-### Peter Parker
+### Daniel Cranney
 
 #### Web Developer
 
-Hi! I am a web developer from the United Kingdom.
+Hi! I'm a web developer from the United Kingdom.
 
 *   [![GitHub logo](https://cdn.simpleicons.org/github/EFCE3F)](https://github.com/danielcranney)
 
-📍 I'm based in New York, United States
+📍 I'm based in Bristol, England.
 
-💼 I'm currently working on Daily Bugle
+💼 I'm currently working on I'm currently working on Treeo
 
-📚 I'm currently learning React and Node.js
+📚 I'm currently learning I'm currently learning JavaScript
 
-🎨 My hobbies include Photography, Swinging through the city
+🎨 My hobbies include I enjoy coding, design and playing guitar.
 
-You have not added any skills.
+*   ![nextjs/nextjs-original](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)
+*   Flask
+*   React
+*   TypeScript
+*   Node.js
 
 #### Experience
 
-You have not entered your experience.
+*   ### Developer Advocate at WeAreDevelopers
+    
+    [WeAreDevelopers](http://www.wearedevelopers.com)
+    
+    July 2024 - Present
+    
+    I am a Developer Advocate, creating content and assets for WeAreDevelopers.
+    
 
 #### Education
 
