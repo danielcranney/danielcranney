@@ -6,6 +6,7 @@ If you are seeing this, it is because I am testing a new project ; )![Daniel Cra
 
 Hi! I'm a web developer from the United Kingdom.
 
+*   [![LinkedIn logo](https://cdn.simpleicons.org/linkedin/EFCE3F)](https://www.linkedin.com/in/danielcranney)
 *   [![GitHub logo](https://cdn.simpleicons.org/github/EFCE3F)](https://github.com/danielcranney)
 
 📍 I'm based in Bristol, England.
@@ -35,11 +36,43 @@ Hi! I'm a web developer from the United Kingdom.
 
 #### Education
 
-You have not entered any courses or qualifications.
+*   ### SGS College
+    
+    Media Production
+    
+    July 2024 - July 2024
+    
+    I was a programme leader for a media production degree programme.
+    
 
 #### Projects
 
-You have not imported any projects.
+*   gps-embroidery-com
+    ------------------
+    
+    JavaScript
+    
+    GPS Embroidery PhD project
+    
+    1
+    
+    0
+    
+    [GitHub](https://github.com/danielcranney/gps-embroidery-com)[Visit](gps-embroidery.vercel.app)
+    
+*   profileme-dev
+    -------------
+    
+    JavaScript
+    
+    Create an awesome GitHub profile in minutes
+    
+    800
+    
+    135
+    
+    [GitHub](https://github.com/danielcranney/profileme-dev)[Visit](http://profileme.dev/)
+    
 
 #### Content
 
