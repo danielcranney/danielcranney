@@ -1,79 +1,81 @@
-If you are seeing this, it is because I am testing a new project ; )![Daniel Cranney + avatar](/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F79528133%3Fv%3D4&w=256&q=75)
-
-### Daniel Cranney
+If you are seeing this, it is because I am testing a new project ; )### Daniel Cranney
 
 #### Web Developer
 
-Hi! I'm a web developer from the United Kingdom.
+Web Developer from the United Kingdom
 
-*   [![LinkedIn logo](https://cdn.simpleicons.org/linkedin/EFCE3F)](https://www.linkedin.com/in/danielcranney)
-*   [![GitHub logo](https://cdn.simpleicons.org/github/EFCE3F)](https://github.com/danielcranney)
+*   [LinkedIn](https://www.linkedin.com/in/danielcranney)
+*   [X](https://twitter.com/danielcranney)
+*   [GitHub](https://github.com/danielcranney)
 
-📍 I'm based in Bristol, England.
+### About me
 
-💼 I'm currently working on I'm currently working on Treeo
+* * *
 
-📚 I'm currently learning I'm currently learning JavaScript
+📍 I'm based in Bristol, England
 
-🎨 My hobbies include I enjoy coding, design and playing guitar.
+💼 I'm currently working at WeAreDevelopers
 
-*   ![nextjs/nextjs-original](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)
-*   Flask
-*   React
-*   TypeScript
-*   Node.js
+📚 I'm currently learning Node.js
 
-#### Experience
+🎨 My hobbies include Photography and swinging through the air
 
-*   ### Developer Advocate at WeAreDevelopers
+### My skills
+
+* * *
+
+You have not added any skills.
+
+### Experience
+
+* * *
+
+*   ### Developer Advocate
     
-    [WeAreDevelopers](http://www.wearedevelopers.com)
+    [WeAreDevelopers](https://www.wearedevelopers.com)
     
     July 2024 - Present
     
-    I am a Developer Advocate, creating content and assets for WeAreDevelopers.
+    Extra information
     
 
-#### Education
+### Education
+
+* * *
 
 *   ### SGS College
     
-    Media Production
+    January 2024 - Present
     
-    July 2024 - July 2024
-    
-    I was a programme leader for a media production degree programme.
+    Media (Further Education)
     
 
-#### Projects
+### Projects
 
-*   gps-embroidery-com
-    ------------------
+* * *
+
+*   yodlr
+    -----
     
     JavaScript
     
-    GPS Embroidery PhD project
+    Create a shoutout card for a Twitter user. Find, style, edit and download....
     
-    1
+    7
     
     0
     
-    [GitHub](https://github.com/danielcranney/gps-embroidery-com)[Visit](gps-embroidery.vercel.app)
+    [GitHub](https://github.com/danielcranney/yodlr)[Visit](https://yodlr.vercel.app/)
     
-*   profileme-dev
-    -------------
+*   rate-my-film
+    ------------
     
     JavaScript
     
-    Create an awesome GitHub profile in minutes
+    A simple question-based website that allows filmmakers to learn more about who their film might be a...
     
-    800
+    7
     
-    135
+    0
     
-    [GitHub](https://github.com/danielcranney/profileme-dev)[Visit](http://profileme.dev/)
-    
-
-#### Content
-
-You have not added any content.
+    [GitHub](https://github.com/danielcranney/rate-my-film)
