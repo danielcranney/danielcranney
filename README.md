@@ -1,12 +1,23 @@
-If you are seeing this, it is because I am testing a new project ; )### Daniel Cranney
+If you are seeing this, it is because I am testing a new project ; )### Ianjkjk
 
 #### Web Developer
 
 Web Developer from the United Kingdom
 
-*   [LinkedIn](https://www.linkedin.com/in/danielcranney)
-*   [X](https://twitter.com/danielcranney)
-*   [GitHub](https://github.com/danielcranney)
+[LinkedIn](https://www.linkedin.com/in/danielcranney)
+
+[X](https://twitter.com/danielcranney)
+
+[GitHub](https://github.com/danielcranney)
+
+### My skills
+
+* * *
+
+*   React
+*   Node.js
+*   TypeScript
+*   Amazon Web Services
 
 ### About me
 
@@ -19,12 +30,6 @@ Web Developer from the United Kingdom
 📚 I'm currently learning Node.js
 
 🎨 My hobbies include Photography and swinging through the air
-
-### My skills
-
-* * *
-
-You have not added any skills.
 
 ### Experience
 
@@ -45,7 +50,7 @@ You have not added any skills.
 
 *   ### SGS College
     
-    January 2024 - Present
+    January 2024 - August 2024
     
     Media (Further Education)
     
@@ -54,8 +59,7 @@ You have not added any skills.
 
 * * *
 
-*   yodlr
-    -----
+*   ### yodlr
     
     JavaScript
     
@@ -67,8 +71,7 @@ You have not added any skills.
     
     [GitHub](https://github.com/danielcranney/yodlr)[Visit](https://yodlr.vercel.app/)
     
-*   rate-my-film
-    ------------
+*   ### rate-my-film
     
     JavaScript
     
