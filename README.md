@@ -1,10 +1,10 @@
-If you are seeing this, it is because I am testing a new project ; )### Ianjkjk
+If you are seeing this, it is because I am testing a new project ; )### Daniel Cranney
 
 #### Web Developer
 
 Web Developer from the United Kingdom
 
-[LinkedIn](https://www.linkedin.com/in/danielcranney)
+[LinkedIn](https://www.linkedin.com/in/danielcranneydd)
 
 [X](https://twitter.com/danielcranney)
 
@@ -14,10 +14,9 @@ Web Developer from the United Kingdom
 
 * * *
 
-*   React
 *   Node.js
 *   TypeScript
-*   Amazon Web Services
+*   Python
 
 ### About me
 
@@ -59,18 +58,6 @@ Web Developer from the United Kingdom
 
 * * *
 
-*   ### yodlr
-    
-    JavaScript
-    
-    Create a shoutout card for a Twitter user. Find, style, edit and download....
-    
-    7
-    
-    0
-    
-    [GitHub](https://github.com/danielcranney/yodlr)[Visit](https://yodlr.vercel.app/)
-    
 *   ### rate-my-film
     
     JavaScript
@@ -82,3 +69,15 @@ Web Developer from the United Kingdom
     0
     
     [GitHub](https://github.com/danielcranney/rate-my-film)
+    
+*   ### yodlr
+    
+    JavaScript
+    
+    Create a shoutout card for a Twitter user. Find, style, edit and download....
+    
+    7
+    
+    0
+    
+    [GitHub](https://github.com/danielcranney/yodlr)[Visit](https://yodlr.vercel.app/)
