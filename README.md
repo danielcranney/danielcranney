@@ -10,13 +10,33 @@ Web Developer from the United Kingdom
 
 [GitHub](https://github.com/danielcranney)
 
+[Twitch](https://www.twitch.tv/jlkjlkj)
+
+[Facebook](https://www.facebook.com/lkjkljlkj)
+
+[Instagram](https://www.instagram.com/ljlkjlkjlj)
+
+[Threads](https://www.threads.net/lkjlkjkljlk)
+
+[TikTok](https://www.tiktok.com/@lkjlkjklj)
+
+[YouTube](https://www.youtube.com/kljkljlkjl)
+
 ### My skills
 
 * * *
 
+*   JavaScript
+*   React
+*   HTML5
+*   CSS3
+*   Git
 *   Node.js
 *   TypeScript
 *   Python
+*   Docker
+*   Amazon Web Services
+*   Sentry
 
 ### About me
 
@@ -58,18 +78,6 @@ Web Developer from the United Kingdom
 
 * * *
 
-*   ### rate-my-film
-    
-    JavaScript
-    
-    A simple question-based website that allows filmmakers to learn more about who their film might be a...
-    
-    7
-    
-    0
-    
-    [GitHub](https://github.com/danielcranney/rate-my-film)
-    
 *   ### yodlr
     
     JavaScript
@@ -81,3 +89,15 @@ Web Developer from the United Kingdom
     0
     
     [GitHub](https://github.com/danielcranney/yodlr)[Visit](https://yodlr.vercel.app/)
+    
+*   ### rate-my-film
+    
+    JavaScript
+    
+    A simple question-based website that allows filmmakers to learn more about who their film might be a...
+    
+    7
+    
+    0
+    
+    [GitHub](https://github.com/danielcranney/rate-my-film)
