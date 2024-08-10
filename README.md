@@ -97,14 +97,34 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
     [GitHub](https://github.com/danielcranney/rate-my-film)
 ### Skills
 
-<span key="undefined">
-        <a href="undefined" target="_blank" rel="noreferrer">
-          <img src="/logo.png" width="36" height="36" alt="Skill 1" />
-        </a>
-      </span>
-<span key="undefined">
-        <a href="undefined" target="_blank" rel="noreferrer">
-          <img src="/logo.png" width="36" height="36" alt="Skill 2" />
-        </a>
-      </span>
+<span key="react0">
+         /*  {"id":"2","name":"React","icon":"ReactIcon","slug":"react","category":"Frontend"} */
+          <a href="react" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/react.svg" width="36" height="36" alt="React" />
+          </a>
+        </span>
+<span key="html51">
+         /*  {"id":"3","name":"HTML5","icon":"Html5Icon","slug":"html5","category":"Frontend"} */
+          <a href="html5" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/html5.svg" width="36" height="36" alt="HTML5" />
+          </a>
+        </span>
+<span key="python2">
+         /*  {"id":"8","name":"Python","icon":"PythonIcon","slug":"python","category":"Programming Language"} */
+          <a href="python" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/python.svg" width="36" height="36" alt="Python" />
+          </a>
+        </span>
+<span key="docker3">
+         /*  {"id":"9","name":"Docker","icon":"DockerIcon","slug":"docker","category":"DevOps"} */
+          <a href="docker" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/docker.svg" width="36" height="36" alt="Docker" />
+          </a>
+        </span>
+<span key="aws4">
+         /*  {"id":"10","name":"AWS","icon":"AwsIcon","slug":"aws","category":"Cloud"} */
+          <a href="aws" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/aws.svg" width="36" height="36" alt="AWS" />
+          </a>
+        </span>
   
