@@ -1,6 +1,6 @@
-If you are seeing this, it is because I am testing a new project ; )### Daniel Cranney
+If you are seeing this, it is because I am testing a new project ; )### TEST
 
-#### Web Developer
+#### New subby
 
 Hi! 👋 I'm a Web Developer from the United Kingdom
 
@@ -26,11 +26,12 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
 
 ---
 
--   React
--   HTML5
+-   TypeScript
 -   Python
 -   Docker
--   Amazon Web Services
+-   Sentry
+-   Swift
+-   Vue.js
 
 ### About me
 
@@ -52,7 +53,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
     
     [WeAreDevelopers](https://www.wearedevelopers.com)
     
-    July 2024 - Present
+    July 2024 - August 2024
     
     Extra information
     
@@ -97,34 +98,34 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
     [GitHub](https://github.com/danielcranney/rate-my-film)
 ### Skills
 
-<span key="react0">
-         /*  {"id":"2","name":"React","icon":"ReactIcon","slug":"react","category":"Frontend"} */
-          <a href="react" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/react.svg" width="36" height="36" alt="React" />
+<span key="typescript0">
+          <a href="typescript" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/typescript.svg" width="36" height="36" alt="TypeScript" />
           </a>
         </span>
-<span key="html51">
-         /*  {"id":"3","name":"HTML5","icon":"Html5Icon","slug":"html5","category":"Frontend"} */
-          <a href="html5" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/html5.svg" width="36" height="36" alt="HTML5" />
-          </a>
-        </span>
-<span key="python2">
-         /*  {"id":"8","name":"Python","icon":"PythonIcon","slug":"python","category":"Programming Language"} */
+<span key="python1">
           <a href="python" target="_blank" rel="noreferrer">
             <img src="http://www/myfolio.dev/icons/skills/python.svg" width="36" height="36" alt="Python" />
           </a>
         </span>
-<span key="docker3">
-         /*  {"id":"9","name":"Docker","icon":"DockerIcon","slug":"docker","category":"DevOps"} */
+<span key="docker2">
           <a href="docker" target="_blank" rel="noreferrer">
             <img src="http://www/myfolio.dev/icons/skills/docker.svg" width="36" height="36" alt="Docker" />
           </a>
         </span>
-<span key="aws4">
-         /*  {"id":"10","name":"AWS","icon":"AwsIcon","slug":"aws","category":"Cloud"} */
-          <a href="aws" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/aws.svg" width="36" height="36" alt="AWS" />
+<span key="sentry3">
+          <a href="sentry" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/sentry.svg" width="36" height="36" alt="Sentry" />
+          </a>
+        </span>
+<span key="swift4">
+          <a href="swift" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/swift.svg" width="36" height="36" alt="Swift" />
+          </a>
+        </span>
+<span key="vuejs5">
+          <a href="vuejs" target="_blank" rel="noreferrer">
+            <img src="http://www/myfolio.dev/icons/skills/vuejs.svg" width="36" height="36" alt="VueJs" />
           </a>
         </span>
   
