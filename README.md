@@ -6,19 +6,19 @@
 
 ### Social Media
 
-<a href="danielcranney" style="text-decoration": "no-underline">
+<a href="danielcranney" style="text-decoration: none;">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/linkedin.svg?sanitize=true" alt="linkedin icon" width="36" height="36" />
 </a>
-<a href="danielcranney" style="text-decoration": "no-underline">
+<a href="danielcranney" style="text-decoration: none;">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/x.svg?sanitize=true" alt="x icon" width="36" height="36" />
 </a>
-<a href="danielcranney" style="text-decoration": "no-underline">
+<a href="danielcranney" style="text-decoration: none;">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" />
 </a>
-<a href="danielcranney" style="text-decoration": "no-underline">
+<a href="danielcranney" style="text-decoration: none;">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitch.svg?sanitize=true" alt="twitch icon" width="36" height="36" />
 </a>
-<a href="danielcranney" style="text-decoration": "no-underline">
+<a href="danielcranney" style="text-decoration: none;">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/facebook.svg?sanitize=true" alt="facebook icon" width="36" height="36" />
 </a>
 
