@@ -6,19 +6,19 @@
 
 ### Social Media
 
-<a href="danielcranney" key="linkedin">
+<a href="danielcranney" style={{ "text-decoration": "no-underline" }}>
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/linkedin.svg?sanitize=true" alt="linkedin icon" width="36" height="36" />
 </a>
-<a href="danielcranney" key="x">
+<a href="danielcranney" style={{ "text-decoration": "no-underline" }}>
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/x.svg?sanitize=true" alt="x icon" width="36" height="36" />
 </a>
-<a href="danielcranney" key="github">
+<a href="danielcranney" style={{ "text-decoration": "no-underline" }}>
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" />
 </a>
-<a href="danielcranney" key="twitch">
+<a href="danielcranney" style={{ "text-decoration": "no-underline" }}>
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitch.svg?sanitize=true" alt="twitch icon" width="36" height="36" />
 </a>
-<a href="danielcranney" key="facebook">
+<a href="danielcranney" style={{ "text-decoration": "no-underline" }}>
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/facebook.svg?sanitize=true" alt="facebook icon" width="36" height="36" />
 </a>
 
@@ -117,12 +117,11 @@ Extra information
 
 ---
 
--   ### SGS College
-    
-    January 2024 - August 2024
-    
-    Media (Further Education)
-    
+### SGS College
+
+January 2024 - August 2024
+
+Media (Further Education)
 
 ### Projects
 
