@@ -6,31 +6,25 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
 
 ### Social Media
 
-<a href="danielcranneydd" key="linkedin">
+<a href="danielcranney" key="linkedin">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/linkedin.svg?sanitize=true" alt="linkedin icon" width="36" height="36" />
 </a>
-
+<a href="danielcranney" key="x">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/x.svg?sanitize=true" alt="x icon" width="36" height="36" />
+</a>
 <a href="danielcranney" key="github">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" />
 </a>
-<a href="jlkjlkj" key="twitch">
+<a href="danielcranney" key="twitch">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitch.svg?sanitize=true" alt="twitch icon" width="36" height="36" />
 </a>
-<a href="lkjkljlkj" key="facebook">
+<a href="danielcranney" key="facebook">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/facebook.svg?sanitize=true" alt="facebook icon" width="36" height="36" />
 </a>
-<a href="ljlkjlkjlj" key="instagram">
-  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" alt="instagram icon" width="36" height="36" />
-</a>
-<a href="lkjlkjkljlk" key="threads">
-  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/threads.svg?sanitize=true" alt="threads icon" width="36" height="36" />
-</a>
-<a href="lkjlkjklj" key="tiktok">
-  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/tiktok.svg?sanitize=true" alt="tiktok icon" width="36" height="36" />
-</a>
-<a href="kljkljlkjl" key="youtube">
-  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/youtube.svg?sanitize=true" alt="youtube icon" width="36" height="36" />
-</a>
+
+
+
+
   
 
 ### Skills
