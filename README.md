@@ -100,50 +100,32 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
 
 <span key="typescript0">
           <a href="typescript" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg" width="36" height="36" alt="TypeScript" />
+            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" />
           </a>
         </span>
-        
-        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true">
 <span key="python1">
           <a href="python" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/python.svg" width="36" height="36" alt="Python" />
+            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/python.svg?sanitize=true" width="36" height="36" alt="Python" />
           </a>
         </span>
-        
-        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/python.svg?sanitize=true">
 <span key="docker2">
           <a href="docker" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/docker.svg" width="36" height="36" alt="Docker" />
+            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/docker.svg?sanitize=true" width="36" height="36" alt="Docker" />
           </a>
         </span>
-        
-        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/docker.svg?sanitize=true">
 <span key="sentry3">
           <a href="sentry" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sentry.svg" width="36" height="36" alt="Sentry" />
+            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sentry.svg?sanitize=true" width="36" height="36" alt="Sentry" />
           </a>
         </span>
-        
-        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sentry.svg?sanitize=true">
 <span key="swift4">
           <a href="swift" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/swift.svg" width="36" height="36" alt="Swift" />
+            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/swift.svg?sanitize=true" width="36" height="36" alt="Swift" />
           </a>
         </span>
-        
-        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/swift.svg?sanitize=true">
 <span key="vuejs5">
           <a href="vuejs" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg" width="36" height="36" alt="VueJs" />
+            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg?sanitize=true" width="36" height="36" alt="VueJs" />
           </a>
         </span>
-        
-        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg?sanitize=true">
   
