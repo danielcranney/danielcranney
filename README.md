@@ -9,9 +9,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
 <a href="danielcranneydd" key="linkedin">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/linkedin.svg?sanitize=true" alt="linkedin icon" width="36" height="36" />
 </a>
-<a href="danielcranney" key="twitter">
-  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitter.svg?sanitize=true" alt="twitter icon" width="36" height="36" />
-</a>
+
 <a href="danielcranney" key="github">
   <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" />
 </a>
