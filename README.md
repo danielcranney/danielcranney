@@ -105,7 +105,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
         </span>
         
         ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="http://myfolio.dev/icons/skills/typescript.svg?sanitize=true">
 <span key="python1">
           <a href="python" target="_blank" rel="noreferrer">
             <img src="http://myfolio.dev/icons/skills/python.svg" width="36" height="36" alt="Python" />
@@ -113,7 +113,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
         </span>
         
         ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="http://myfolio.dev/icons/skills/python.svg?sanitize=true">
 <span key="docker2">
           <a href="docker" target="_blank" rel="noreferrer">
             <img src="http://myfolio.dev/icons/skills/docker.svg" width="36" height="36" alt="Docker" />
@@ -121,7 +121,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
         </span>
         
         ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="http://myfolio.dev/icons/skills/docker.svg?sanitize=true">
 <span key="sentry3">
           <a href="sentry" target="_blank" rel="noreferrer">
             <img src="http://myfolio.dev/icons/skills/sentry.svg" width="36" height="36" alt="Sentry" />
@@ -129,7 +129,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
         </span>
         
         ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="http://myfolio.dev/icons/skills/sentry.svg?sanitize=true">
 <span key="swift4">
           <a href="swift" target="_blank" rel="noreferrer">
             <img src="http://myfolio.dev/icons/skills/swift.svg" width="36" height="36" alt="Swift" />
@@ -137,7 +137,7 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
         </span>
         
         ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="http://myfolio.dev/icons/skills/swift.svg?sanitize=true">
 <span key="vuejs5">
           <a href="vuejs" target="_blank" rel="noreferrer">
             <img src="http://myfolio.dev/icons/skills/vuejs.svg" width="36" height="36" alt="VueJs" />
@@ -145,5 +145,5 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
         </span>
         
         ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="http://myfolio.dev/icons/skills/vuejs.svg?sanitize=true">
   
