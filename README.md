@@ -88,7 +88,6 @@
 <span key="angularjs19">
 <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/angularjs.svg?sanitize=true" width="36" height="36" alt="AngularJs" />
 </span>
-  
 
 ### About me
 
