@@ -12,10 +12,6 @@
 <a href="https://www.twitch.tv/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitch.svg?sanitize=true" alt="twitch icon" width="36" height="36" /></a>
 <a href="https://www.facebook.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/facebook.svg?sanitize=true" alt="facebook icon" width="36" height="36" /></a>
 
-
-
-
-
 ### My Skills
 
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" width="36" height="36" alt="JavaScript" /></span>
@@ -51,27 +47,7 @@
 
 🎨 My hobbies include Photography and swinging through the air
 
-### Experience
-
----
-
-### Developer Advocate
-
-[WeAreDevelopers](https://www.wearedevelopers.com)
-
-July 2024 - August 2024
-
-Extra information
-
-### Education
-
----
-
-### SGS College
-
-January 2024 - August 2024
-
-Media (Further Education)
+| Position | Company & Duration | | ------------- | ------------- | | Developer Advocate | Details | | Developer Advocate | Details | | Developer Advocate | Details | | Developer Advocate | Details | | Developer Advocate | Details | | Title | Details | | Position | Company & Duration | | ------------- | ------------- | | Title | Details | | Title | Details | | Title | Details | | Title | Details | | Title | Details | | Title | Details |
 
 ### Projects
 
