@@ -1,8 +1,8 @@
-If you are seeing this, it is because I am testing a new project ; )### TEST
+# Dan Cranney
 
-#### New subby
+### 🥑 Developer Advocate
 
-Hi! 👋 I'm a Web Developer from the United Kingdom
+## Hi! 👋 I'm a Web Developer from the United Kingdom
 
 ### Social Media
 
