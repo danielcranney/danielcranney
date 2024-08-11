@@ -4,23 +4,36 @@ If you are seeing this, it is because I am testing a new project ; )### TEST
 
 Hi! 👋 I'm a Web Developer from the United Kingdom
 
-[LinkedIn](https://www.linkedin.com/in/danielcranneydd)
+### Social Media
 
-[X](https://twitter.com/danielcranney)
-
-[GitHub](https://github.com/danielcranney)
-
-[Twitch](https://www.twitch.tv/jlkjlkj)
-
-[Facebook](https://www.facebook.com/lkjkljlkj)
-
-[Instagram](https://www.instagram.com/ljlkjlkjlj)
-
-[Threads](https://www.threads.net/lkjlkjkljlk)
-
-[TikTok](https://www.tiktok.com/@lkjlkjklj)
-
-[YouTube](https://www.youtube.com/kljkljlkjl)
+<a href="danielcranneydd" key="linkedin">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/linkedin.svg?sanitize=true" alt="linkedin icon" width="36" height="36" />
+</a>
+<a href="danielcranney" key="twitter">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitter.svg?sanitize=true" alt="twitter icon" width="36" height="36" />
+</a>
+<a href="danielcranney" key="github">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" />
+</a>
+<a href="jlkjlkj" key="twitch">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/twitch.svg?sanitize=true" alt="twitch icon" width="36" height="36" />
+</a>
+<a href="lkjkljlkj" key="facebook">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/facebook.svg?sanitize=true" alt="facebook icon" width="36" height="36" />
+</a>
+<a href="ljlkjlkjlj" key="instagram">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" alt="instagram icon" width="36" height="36" />
+</a>
+<a href="lkjlkjkljlk" key="threads">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/threads.svg?sanitize=true" alt="threads icon" width="36" height="36" />
+</a>
+<a href="lkjlkjklj" key="tiktok">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/tiktok.svg?sanitize=true" alt="tiktok icon" width="36" height="36" />
+</a>
+<a href="kljkljlkjl" key="youtube">
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/youtube.svg?sanitize=true" alt="youtube icon" width="36" height="36" />
+</a>
+  
 
 ### Skills
 
