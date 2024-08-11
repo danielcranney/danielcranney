@@ -47,7 +47,7 @@
 
 🎨 My hobbies include Photography and swinging through the air
 
-| Position | Company & Duration | | ------------- | ------------- | | Developer Advocate | Details | | Developer Advocate | Details | | Developer Advocate | Details | | Developer Advocate | Details | | Developer Advocate | Details | | Title | Details | | Position | Company & Duration | | ------------- | ------------- | | Title | Details | | Title | Details | | Title | Details | | Title | Details | | Title | Details | | Title | Details |
+| Position | Company & Duration | | ------------- | ------------- | | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information | | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information | | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information | | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information | | Developer Advocate | WeAreDevelopers | Date Range | Description | | Title | WeAreDevelopers | Date Range | Description | | Position | Company & Duration | | ------------- | ------------- | | Title | Company | Date Range | Description | | Title | Company | Date Range | Description | | Title | Company | Date Range | Description | | Title | Company | Date Range | Description | | Title | Company | Date Range | Description | | Title | Company | Date Range | Description |
 
 ### Projects
 
