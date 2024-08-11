@@ -100,32 +100,50 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
 
 <span key="typescript0">
           <a href="typescript" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/typescript.svg" width="36" height="36" alt="TypeScript" />
+            <img src="http://myfolio.dev/icons/skills/typescript.svg" width="36" height="36" alt="TypeScript" />
           </a>
         </span>
+        
+        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
 <span key="python1">
           <a href="python" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/python.svg" width="36" height="36" alt="Python" />
+            <img src="http://myfolio.dev/icons/skills/python.svg" width="36" height="36" alt="Python" />
           </a>
         </span>
+        
+        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
 <span key="docker2">
           <a href="docker" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/docker.svg" width="36" height="36" alt="Docker" />
+            <img src="http://myfolio.dev/icons/skills/docker.svg" width="36" height="36" alt="Docker" />
           </a>
         </span>
+        
+        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
 <span key="sentry3">
           <a href="sentry" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/sentry.svg" width="36" height="36" alt="Sentry" />
+            <img src="http://myfolio.dev/icons/skills/sentry.svg" width="36" height="36" alt="Sentry" />
           </a>
         </span>
+        
+        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
 <span key="swift4">
           <a href="swift" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/swift.svg" width="36" height="36" alt="Swift" />
+            <img src="http://myfolio.dev/icons/skills/swift.svg" width="36" height="36" alt="Swift" />
           </a>
         </span>
+        
+        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
 <span key="vuejs5">
           <a href="vuejs" target="_blank" rel="noreferrer">
-            <img src="http://www/myfolio.dev/icons/skills/vuejs.svg" width="36" height="36" alt="VueJs" />
+            <img src="http://myfolio.dev/icons/skills/vuejs.svg" width="36" height="36" alt="VueJs" />
           </a>
         </span>
+        
+        ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
   
