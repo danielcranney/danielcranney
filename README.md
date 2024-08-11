@@ -113,103 +113,63 @@ Hi! 👋 I'm a Web Developer from the United Kingdom
 ### Skills
 
 <span key="javascript0">
-          <a href="javascript" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" width="36" height="36" alt="JavaScript" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" width="36" height="36" alt="JavaScript" />
+</span>
 <span key="react1">
-          <a href="react" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/react.svg?sanitize=true" width="36" height="36" alt="React" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/react.svg?sanitize=true" width="36" height="36" alt="React" />
+</span>
 <span key="html52">
-          <a href="html5" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/html5.svg?sanitize=true" width="36" height="36" alt="HTML5" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/html5.svg?sanitize=true" width="36" height="36" alt="HTML5" />
+</span>
 <span key="css33">
-          <a href="css3" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/css3.svg?sanitize=true" width="36" height="36" alt="CSS3" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/css3.svg?sanitize=true" width="36" height="36" alt="CSS3" />
+</span>
 <span key="git4">
-          <a href="git" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/git.svg?sanitize=true" width="36" height="36" alt="Git" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/git.svg?sanitize=true" width="36" height="36" alt="Git" />
+</span>
 <span key="nodejs5">
-          <a href="nodejs" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nodejs.svg?sanitize=true" width="36" height="36" alt="Node.js" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nodejs.svg?sanitize=true" width="36" height="36" alt="Node.js" />
+</span>
 <span key="typescript6">
-          <a href="typescript" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" />
+</span>
 <span key="python7">
-          <a href="python" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/python.svg?sanitize=true" width="36" height="36" alt="Python" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/python.svg?sanitize=true" width="36" height="36" alt="Python" />
+</span>
 <span key="docker8">
-          <a href="docker" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/docker.svg?sanitize=true" width="36" height="36" alt="Docker" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/docker.svg?sanitize=true" width="36" height="36" alt="Docker" />
+</span>
 <span key="aws9">
-          <a href="aws" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/aws.svg?sanitize=true" width="36" height="36" alt="AWS" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/aws.svg?sanitize=true" width="36" height="36" alt="AWS" />
+</span>
 <span key="bootstrap10">
-          <a href="bootstrap" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/bootstrap.svg?sanitize=true" width="36" height="36" alt="Bootstrap" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/bootstrap.svg?sanitize=true" width="36" height="36" alt="Bootstrap" />
+</span>
 <span key="nextjs11">
-          <a href="nextjs" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nextjs.svg?sanitize=true" width="36" height="36" alt="NextJS" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nextjs.svg?sanitize=true" width="36" height="36" alt="NextJS" />
+</span>
 <span key="php12">
-          <a href="php" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/php.svg?sanitize=true" width="36" height="36" alt="PHP" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/php.svg?sanitize=true" width="36" height="36" alt="PHP" />
+</span>
 <span key="ruby13">
-          <a href="ruby" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/ruby.svg?sanitize=true" width="36" height="36" alt="Ruby" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/ruby.svg?sanitize=true" width="36" height="36" alt="Ruby" />
+</span>
 <span key="sass14">
-          <a href="sass" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sass.svg?sanitize=true" width="36" height="36" alt="SASS" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sass.svg?sanitize=true" width="36" height="36" alt="SASS" />
+</span>
 <span key="sentry15">
-          <a href="sentry" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sentry.svg?sanitize=true" width="36" height="36" alt="Sentry" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sentry.svg?sanitize=true" width="36" height="36" alt="Sentry" />
+</span>
 <span key="swift16">
-          <a href="swift" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/swift.svg?sanitize=true" width="36" height="36" alt="Swift" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/swift.svg?sanitize=true" width="36" height="36" alt="Swift" />
+</span>
 <span key="tailwindcss17">
-          <a href="tailwindcss" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/tailwindcss.svg?sanitize=true" width="36" height="36" alt="TailwindCss" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/tailwindcss.svg?sanitize=true" width="36" height="36" alt="TailwindCss" />
+</span>
 <span key="vuejs18">
-          <a href="vuejs" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg?sanitize=true" width="36" height="36" alt="VueJs" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg?sanitize=true" width="36" height="36" alt="VueJs" />
+</span>
 <span key="angularjs19">
-          <a href="angularjs" target="_blank" rel="noreferrer">
-            <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/angularjs.svg?sanitize=true" width="36" height="36" alt="AngularJs" />
-          </a>
-        </span>
+  <img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/angularjs.svg?sanitize=true" width="36" height="36" alt="AngularJs" />
+</span>
   
