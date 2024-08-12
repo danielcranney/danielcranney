@@ -35,8 +35,8 @@
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg?sanitize=true" width="36" height="36" alt="VueJs" /></span>
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/angularjs.svg?sanitize=true" width="36" height="36" alt="AngularJs" /></span>
 
-
 ### About me
+
 ---
 
 📍 I'm based in Bristol, England
@@ -47,20 +47,20 @@
 
 🎨 My hobbies include Photography and swinging through the air
 
-
 ### Experience
+
 ---
 
 | Position | Company | Date Range | Description |  
-| --------------------- | --------------------- | --------------------- | --------------------- |  
+| ------------- | ------------- | ------------- | ------------- |  
 | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information |
 
-
 ### Education
+
 ---
 
 | Field of Study | Institution | Date Range | Description |  
-| --------------------- | --------------------- | --------------------- | --------------------- |  
+| ------------- | ------------- | ------------- | ------------- |  
 | Media (Further Education) | SGS College | January 2024 - August 2024 | Description |
 
 ### Projects
