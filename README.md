@@ -47,9 +47,13 @@
 
 🎨 My hobbies include Photography and swinging through the air
 
-| Position | Company | Date Range | Description |
-| ------------- | ------------- | ------------- | ------------- | 
+| Position | Company | Date Range | Description |  
+| ------------- | ------------- | ------------- | ------------- |  
 | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information |
+
+| Position | Company | Date Range | Description |  
+| ------------- | ------------- | ------------- | ------------- |  
+| Title | Company | Date Range | Description |
 
 ### Projects
 
