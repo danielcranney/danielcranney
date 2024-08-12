@@ -63,4 +63,6 @@
 | ------------- | ------------- | ------------- | ------------- |  
 | Media (Further Education) | SGS College | January 2024 - August 2024 | Description |
 
-| Project Name | Language | Description | Stars | Forks | GitHub | Visit | Image | |--------------|----------|-------------|-------|-------|--------|-------|-------| | yodlr | JavaScript | Create a shoutout card for a Twitter user. Find, style, edit and download.... | 7 | 0 | \[GitHub\](https://github.com/danielcranney/yodlr) | \[Visit\](https://yodlr.vercel.app/) | !\[Image\]() | | rate-my-film | JavaScript | A simple question-based website that allows filmmakers to learn more about who their film might be a... | 7 | 0 | \[GitHub\](https://github.com/danielcranney/rate-my-film) | | !\[Image\]() |
+| Project Name | Language | Description | Stars | Forks | GitHub | Visit | Image |  
+|--------------|----------|-------------|-------|-------|--------|-------|-------|  
+| yodlr | JavaScript | Create a shoutout card for a Twitter user. Find, style, edit and download.... | 7 | 0 | \[GitHub\](https://github.com/danielcranney/yodlr) | \[Visit\](https://yodlr.vercel.app/) | !\[Image\]() | | rate-my-film | JavaScript | A simple question-based website that allows filmmakers to learn more about who their film might be a... | 7 | 0 | \[GitHub\](https://github.com/danielcranney/rate-my-film) | | !\[Image\]() |
