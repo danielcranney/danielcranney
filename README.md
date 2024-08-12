@@ -59,15 +59,15 @@
 
 ---
 
-| Position | Company | Date Range | Description |  
+| Field of Study | Institution | Date Range | Description |  
 | ------------- | ------------- | ------------- | ------------- |  
-| Title | Company | Date Range | Description |
+| Media (Further Education) | SGS College | January 2024 - August 2024 | Description |
 
 ### Projects
 
 ---
 
-### yodlr
+#### yodlr
 
 JavaScript
 
@@ -79,7 +79,7 @@ Create a shoutout card for a Twitter user. Find, style, edit and download....
 
 [GitHub](https://github.com/danielcranney/yodlr)[Visit](https://yodlr.vercel.app/)
 
-### rate-my-film
+#### rate-my-film
 
 JavaScript
 
