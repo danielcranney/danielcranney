@@ -52,7 +52,7 @@
 ---
 
 | Position | Company | Date Range | Description |  
-| ------------- | ------------- | ------------- | ------------- |  
+| --------------------- | --------------------- | --------------------- | --------------------- |  
 | Developer Advocate | WeAreDevelopers | July 2024 - August 2024 | Extra information |
 
 
@@ -60,7 +60,7 @@
 ---
 
 | Field of Study | Institution | Date Range | Description |  
-| ------------- | ------------- | ------------- | ------------- |  
+| --------------------- | --------------------- | --------------------- | --------------------- |  
 | Media (Further Education) | SGS College | January 2024 - August 2024 | Description |
 
 ### Projects
