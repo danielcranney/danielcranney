@@ -14,26 +14,9 @@
 
 ### My Skills
 
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" width="36" height="36" alt="JavaScript" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/react.svg?sanitize=true" width="36" height="36" alt="React" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/html5.svg?sanitize=true" width="36" height="36" alt="HTML5" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/css3.svg?sanitize=true" width="36" height="36" alt="CSS3" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/git.svg?sanitize=true" width="36" height="36" alt="Git" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nodejs.svg?sanitize=true" width="36" height="36" alt="Node.js" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/python.svg?sanitize=true" width="36" height="36" alt="Python" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/docker.svg?sanitize=true" width="36" height="36" alt="Docker" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/aws.svg?sanitize=true" width="36" height="36" alt="AWS" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/bootstrap.svg?sanitize=true" width="36" height="36" alt="Bootstrap" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nextjs.svg?sanitize=true" width="36" height="36" alt="NextJS" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/php.svg?sanitize=true" width="36" height="36" alt="PHP" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/ruby.svg?sanitize=true" width="36" height="36" alt="Ruby" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sass.svg?sanitize=true" width="36" height="36" alt="SASS" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/sentry.svg?sanitize=true" width="36" height="36" alt="Sentry" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/swift.svg?sanitize=true" width="36" height="36" alt="Swift" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/tailwindcss.svg?sanitize=true" width="36" height="36" alt="TailwindCss" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/vuejs.svg?sanitize=true" width="36" height="36" alt="VueJs" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/angularjs.svg?sanitize=true" width="36" height="36" alt="AngularJs" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/cplus.svg?sanitize=true" width="36" height="36" alt="C++" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/rust.svg?sanitize=true" width="36" height="36" alt="Rust" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/java.svg?sanitize=true" width="36" height="36" alt="Java" /></span>
 
 ### About me
 
