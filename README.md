@@ -23,10 +23,6 @@
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" /></span>
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/bootstrap.svg?sanitize=true" width="36" height="36" alt="Bootstrap" /></span>
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/tailwindcss.svg?sanitize=true" width="36" height="36" alt="TailwindCss" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/figma.svg?sanitize=true" width="36" height="36" alt="Figma" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/adobexd.svg?sanitize=true" width="36" height="36" alt="Adobe XD" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/adobephotoshop.svg?sanitize=true" width="36" height="36" alt="Adobe Photoshop" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/adobeillustrator.svg?sanitize=true" width="36" height="36" alt="Adobe Illustrator" /></span>
 
 ### About me
 
