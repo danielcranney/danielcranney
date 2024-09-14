@@ -1,40 +1,35 @@
-# Daniel Cranney
+# Lily Ono
 
-### Web Developer and Product Builder
+### Developer from Brazil
 
-## Hi! I'm a Web Developer from the United Kingdom
+## Hi 👋 I'm Lily, welcome to my portfolio
 
 ### Social Media
 
-<a href="https://www.linkedin.com/in/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/linkedin.svg?sanitize=true" alt="linkedin icon" width="36" height="36" /></a>
-<a href="https://www.x.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/x.svg?sanitize=true" alt="x icon" width="36" height="36" /></a>
+<a href="https://github.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" /></a>
 
-<a href="https://www.facebook.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/facebook.svg?sanitize=true" alt="facebook icon" width="36" height="36" /></a>
 <a href="https://www.instagram.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" alt="instagram icon" width="36" height="36" /></a>
-<a href="https://www.threads.net/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/threads.svg?sanitize=true" alt="threads icon" width="36" height="36" /></a>
+<a href="https://www.threads.net/lkjlkjkljlk"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/threads.svg?sanitize=true" alt="threads icon" width="36" height="36" /></a>
+<a href="https://www.tiktok.com/@dcuk89"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/tiktok.svg?sanitize=true" alt="tiktok icon" width="36" height="36" /></a>
+<a href="https://www.youtube.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/youtube.svg?sanitize=true" alt="youtube icon" width="36" height="36" /></a>
 
 ### My Skills
 
 <span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" width="36" height="36" alt="JavaScript" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/react.svg?sanitize=true" width="36" height="36" alt="React" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/html5.svg?sanitize=true" width="36" height="36" alt="HTML5" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/css3.svg?sanitize=true" width="36" height="36" alt="CSS3" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/nodejs.svg?sanitize=true" width="36" height="36" alt="Node.js" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/bootstrap.svg?sanitize=true" width="36" height="36" alt="Bootstrap" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/tailwindcss.svg?sanitize=true" width="36" height="36" alt="TailwindCss" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/csharp.svg?sanitize=true" width="36" height="36" alt="C#" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/cplus.svg?sanitize=true" width="36" height="36" alt="C++" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/pycharm.svg?sanitize=true" width="36" height="36" alt="PyCharm" /></span>
+<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/go.svg?sanitize=true" width="36" height="36" alt="Go" /></span>
 
 ### About me
 
 ---
 
-📍 I'm based in Bristol, England
+📍 I'm based in Brasil
 
-💼 I'm currently working at Developer Advocate at WeAreDevelopers
+📚 I'm currently learning JavaScript
 
-📚 What are you learning? (e.g., React and Node.js)
-
-🎨 What do you enjoy doing? (e.g., Photography, Traveling, etc.)
+🎨 My hobbies include When I'm not working with code, I enjoy playing guitar, going to the gym and hanging out with my wife and daughter.
 
 ### Experience
 
@@ -42,7 +37,7 @@
 
 | Position | Company | Date Range | Description |  
 | ------------- | ------------- | ------------- | ------------- |  
-| Developer Advocate | WeAreDevelopers | February 2024 - Present | I am a Developer Advocate, representing the company at conferences and through content creation. |
+| Dev avo | WeAreDevs | September 2024 - September 2024 | Description |
 
 ### Education
 
@@ -50,18 +45,28 @@
 
 | Field of Study | Institution | Date Range | Description |  
 | ------------- | ------------- | ------------- | ------------- |  
-| Media Production (Undergraduate Degree) | University of Gloucestershire | August 2007 - November 2010 | I studied for my degree and got a 2:1 in Media Production. |
+| Media (Undergraduate Degree) | SGS | September 2024 - Present | Description of the education |
+
+### Projects
+
+---
+
+| Project Name | Language | Description | Stars | Forks | GitHub | Visit | Image |  
+|--------------|----------|-------------|-------|-------|--------|-------|-------|  
+| profileme-dev | JavaScript | Create an awesome GitHub profile in minutes... | 817 | 136 | \[GitHub\](https://github.com/danielcranney/profileme-dev) | \[Visit\](http://profileme.dev/) | |  
+| spotlight-media | JavaScript | This is the source code for my videography company, Spotlight Media. This website is built using Nex... | 6 | 0 | \[GitHub\](https://github.com/danielcranney/spotlight-media) | \[Visit\](spotlight-media.vercel.app) | |  
+| form-wizard | JavaScript | A simple multi-step form component with progress wizard, built using ReactJS and Tailwind CSS (to ha... | 3 | 1 | \[GitHub\](https://github.com/danielcranney/form-wizard) | | |  
+| react-dnd-example | JavaScript | nested drag and drop react-dnd example... | 2 | 0 | \[GitHub\](https://github.com/danielcranney/react-dnd-example) | | |  
+| spotlight-media | JavaScript | This is the source code for my videography company, Spotlight Media. This website is built using Nex... | 6 | 0 | \[GitHub\](https://github.com/danielcranney/spotlight-media) | \[Visit\](spotlight-media.vercel.app) | |  
 
 ### Content
 
 ---
 
--   ### Your Content Title
+-   ### WeAreDevelopers
     
-    Delete
+    [https://www.youtube.com/watch?v=1KLRDouvVKU](https://www.youtube.com/watch?v=1KLRDouvVKU)
     
-    [https://yourcontenturl.com](https://yourcontenturl.com)
+    jlkjlkj
     
-    Describe your content briefly.
-    
-    ARTICLE
+    VIDEO
