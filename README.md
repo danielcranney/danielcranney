@@ -1,72 +1,55 @@
-# Lily Ono
+Hi 👋 My name is Daniel Cranney
+===============================
 
-### Developer from Brazil
+Developer, Designer & Teacher
+-----------------------------
 
-## Hi 👋 I'm Lily, welcome to my portfolio
+* 🌍  I'm based in Bristol, England
+* 🖥️  See my portfolio at [danielcranney.com](http://danielcranney.com)
+* ✉️  You can contact me at [danielcranney@gmail.com](mailto:danielcranney@gmail.com)
+* 🚀  I'm currently working on a booking system, [ColorHub.app](http://colorhub.app) and [ProfileMe.dev](http://profileme.dev)
+* 🧠  I'm learning TypeScript
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
-### Social Media
+<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://github.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/github.svg?sanitize=true" alt="github icon" width="36" height="36" /></a>
+### Skills
 
-<a href="https://www.instagram.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" alt="instagram icon" width="36" height="36" /></a>
-<a href="https://www.threads.net/lkjlkjkljlk"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/threads.svg?sanitize=true" alt="threads icon" width="36" height="36" /></a>
-<a href="https://www.tiktok.com/@dcuk89"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/tiktok.svg?sanitize=true" alt="tiktok icon" width="36" height="36" /></a>
-<a href="https://www.youtube.com/danielcranney"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/youtube.svg?sanitize=true" alt="youtube icon" width="36" height="36" /></a>
 
-### My Skills
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" width="36" height="36" alt="JavaScript" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/csharp.svg?sanitize=true" width="36" height="36" alt="C#" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/cplus.svg?sanitize=true" width="36" height="36" alt="C++" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/pycharm.svg?sanitize=true" width="36" height="36" alt="PyCharm" /></span>
-<span><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/go.svg?sanitize=true" width="36" height="36" alt="Go" /></span>
 
-### About me
+### Socials
 
----
+<p align="left"> <a href="https://www.behance.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://danielcranney.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-cranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-📍 I'm based in Brasil
+### Badges
 
-📚 I'm currently learning JavaScript
+<b>My GitHub Stats</b>
 
-🎨 My hobbies include When I'm not working with code, I enjoy playing guitar, going to the gym and hanging out with my wife and daughter.
+<a href="http://www.github.com/danielcranney"><img src="https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
 
-### Experience
+### Support Me
 
----
-
-| Position | Company | Date Range | Description |  
-| ------------- | ------------- | ------------- | ------------- |  
-| Dev avo | WeAreDevs | September 2024 - September 2024 | Description |
-
-### Education
-
----
-
-| Field of Study | Institution | Date Range | Description |  
-| ------------- | ------------- | ------------- | ------------- |  
-| Media (Undergraduate Degree) | SGS | September 2024 - Present | Description of the education |
-
-### Projects
-
----
-
-| Project Name | Language | Description | Stars | Forks | GitHub | Visit | Image |  
-|--------------|----------|-------------|-------|-------|--------|-------|-------|  
-| profileme-dev | JavaScript | Create an awesome GitHub profile in minutes... | 817 | 136 | \[GitHub\](https://github.com/danielcranney/profileme-dev) | \[Visit\](http://profileme.dev/) | |  
-| spotlight-media | JavaScript | This is the source code for my videography company, Spotlight Media. This website is built using Nex... | 6 | 0 | \[GitHub\](https://github.com/danielcranney/spotlight-media) | \[Visit\](spotlight-media.vercel.app) | |  
-| form-wizard | JavaScript | A simple multi-step form component with progress wizard, built using ReactJS and Tailwind CSS (to ha... | 3 | 1 | \[GitHub\](https://github.com/danielcranney/form-wizard) | | |  
-| react-dnd-example | JavaScript | nested drag and drop react-dnd example... | 2 | 0 | \[GitHub\](https://github.com/danielcranney/react-dnd-example) | | |  
-| spotlight-media | JavaScript | This is the source code for my videography company, Spotlight Media. This website is built using Nex... | 6 | 0 | \[GitHub\](https://github.com/danielcranney/spotlight-media) | \[Visit\](spotlight-media.vercel.app) | |  
-
-### Content
-
----
-
--   ### WeAreDevelopers
-    
-    [https://www.youtube.com/watch?v=1KLRDouvVKU](https://www.youtube.com/watch?v=1KLRDouvVKU)
-    
-    jlkjlkj
-    
-    VIDEO
+<a href="https://www.buymeacoffee.com/danielcranney"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
