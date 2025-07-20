@@ -1,13 +1,13 @@
 Hi 👋 My name is Daniel Cranney
 ===============================
 
-Developer, Designer & Teacher
+Developer Advocate & Content Creator
 -----------------------------
 
 * 🌍  I'm based in Bristol, England
 * 🖥️  See my portfolio at [danielcranney.com](http://danielcranney.com)
-* ✉️  You can contact me at [danielcranney@gmail.com](mailto:danielcranney@gmail.com)
-* 🚀  I'm currently working on a booking system, [ColorHub.app](http://colorhub.app) and [ProfileMe.dev](http://profileme.dev)
+* ✉️  You can contact me at [hello@danielcranney.com](mailto:hello@danielcranney.com)
+* 🚀  I'm currently working on [Supabooking](supabooking.com), [ColorHub.app](http://colorhub.app) and [ProfileMe.dev](http://profileme.dev)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
