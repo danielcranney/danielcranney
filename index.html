@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daniel Cranney - Portfolio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      line-height: 1.6;
+      color: #e5e7eb;
+      background: #1f2937;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    
+    header {
+      text-align: center;
+      padding: 3rem 0;
+      border-bottom: 2px solid #374151;
+      margin-bottom: 3rem;
+    }
+    
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+      color: #f9fafb;
+    }
+    
+    .subtitle {
+      font-size: 1.25rem;
+      color: #9ca3af;
+      margin-bottom: 1rem;
+    }
+    
+    .location {
+      color: #6b7280;
+      font-size: 1rem;
+    }
+    
+    section {
+      margin-bottom: 3rem;
+    }
+    
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      color: #f9fafb;
+      border-bottom: 2px solid #3b82f6;
+      padding-bottom: 0.5rem;
+    }
+    
+    .description {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d1d5db;
+      margin-bottom: 2rem;
+    }
+    
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+    
+    .skill-category {
+      background: #111827;
+      padding: 1.5rem;
+      border-radius: 8px;
+      border-left: 4px solid #3b82f6;
+    }
+    
+    .skill-category h3 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      color: #f9fafb;
+    }
+    
+    .skill-items {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    
+    .skill-item {
+      background: #374151;
+      padding: 0.4rem 0.8rem;
+      border-radius: 6px;
+      border: 1px solid #4b5563;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #e5e7eb;
+      min-width: 2.5rem;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    
+    .socials {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    
+    .social-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      background: #3b82f6;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    
+    .social-link:hover {
+      background: #2563eb;
+    }
+    
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    
+    .link-button {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background: #10b981;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    
+    .link-button:hover {
+      background: #059669;
+    }
+    
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    
+    .badge {
+      display: inline-block;
+    }
+    
+    .support {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    
+    .support-link {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background: #e74c3c;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: background 0.3s;
+    }
+    
+    .support-link:hover {
+      background: #c0392b;
+    }
+    
+    footer {
+      text-align: center;
+      padding: 2rem 0;
+      margin-top: 3rem;
+      border-top: 2px solid #374151;
+      color: #6b7280;
+    }
+    
+    footer a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+    
+    footer a:hover {
+      text-decoration: underline;
+    }
+    
+    @media (max-width: 768px) {
+      .container {
+        padding: 1rem;
+      }
+      
+      h1 {
+        font-size: 2rem;
+      }
+      
+      .skills-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Daniel Cranney</h1>
+      <p class="subtitle">Web Developer</p>
+      <p class="location">📍 Bristol</p>
+    </header>
+
+    
+
+    
+    <section id="skills">
+      <h2>Skills</h2>
+      <div class="skills-grid">
+        
+      <div class="skill-category">
+        <h3>core</h3>
+        <div class="skill-items">
+          <span class="skill-item" title="C">C</span><span class="skill-item" title="C++">C++</span><span class="skill-item" title="C#">C#</span><span class="skill-item" title="Spring Boot">SB</span><span class="skill-item" title="Coffeescript">COF</span>
+        </div>
+      </div>
+    
+      <div class="skill-category">
+        <h3>scripting</h3>
+        <div class="skill-items">
+          <span class="skill-item" title="GNU Bash">BAS</span>
+        </div>
+      </div>
+    
+      <div class="skill-category">
+        <h3>editors</h3>
+        <div class="skill-items">
+          <span class="skill-item" title="VS Code">VS</span><span class="skill-item" title="Vim">VIM</span><span class="skill-item" title="Neovim">NEO</span>
+        </div>
+      </div>
+    
+      </div>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <section id="socials">
+      <h2>Connect</h2>
+      <div class="socials">
+        
+      <a href="https://www.github.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        GitHub
+      </a>
+    
+      <a href="https://www.gitlab.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        GitLab
+      </a>
+    
+      <a href="https://www.x.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Twitter
+      </a>
+    
+      <a href="https://www.threads.net/@" class="social-link" target="_blank" rel="noopener noreferrer">
+        Threads
+      </a>
+    
+      <a href="https://.hashnode.dev" class="social-link" target="_blank" rel="noopener noreferrer">
+        Hashnode
+      </a>
+    
+      <a href="http://www.medium.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Medium
+      </a>
+    
+      <a href="https://www.dev.to/" class="social-link" target="_blank" rel="noopener noreferrer">
+        DEV
+      </a>
+    
+      <a href="https://www.linkedin.com/in/" class="social-link" target="_blank" rel="noopener noreferrer">
+        LinkedIn
+      </a>
+    
+      <a href="https://www.polywork.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Polywork
+      </a>
+    
+      <a href="https://www.twitch.tv/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Twitch
+      </a>
+    
+      <a href="https://www.youtube.com/@" class="social-link" target="_blank" rel="noopener noreferrer">
+        YouTube
+      </a>
+    
+      <a href="https://www.behance.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Behance
+      </a>
+    
+      <a href="https://www.codepen.io/" class="social-link" target="_blank" rel="noopener noreferrer">
+        CodePen
+      </a>
+    
+      <a href="https://codesandbox.io/u/" class="social-link" target="_blank" rel="noopener noreferrer">
+        CodeSandbox
+      </a>
+    
+      <a href="https://discord.com/users/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Discord
+      </a>
+    
+      <a href="https://www.dribbble.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Dribble
+      </a>
+    
+      <a href="https://www.facebook.com/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Facebook
+      </a>
+    
+      <a href="https://" class="social-link" target="_blank" rel="noopener noreferrer">
+        RSS
+      </a>
+    
+      <a href="https://www.stackoverflow.com/users/" class="social-link" target="_blank" rel="noopener noreferrer">
+        Stack Overflow
+      </a>
+    
+      </div>
+    </section>
+    
+
+    
+
+    
+    <section id="support">
+      <h2>Support</h2>
+      <div class="support">
+        
+      <a href="https://www.buymeacoffee.com/" class="support-link" target="_blank" rel="noopener noreferrer">
+        buymeacoffee.svg
+      </a>
+    
+      <a href="https://www.ko-fi.com/" class="support-link" target="_blank" rel="noopener noreferrer">
+        kofi.svg
+      </a>
+    
+      </div>
+    </section>
+    
+
+    
+
+    <footer>
+      <p>Generated by <a href="https://profileme.dev" target="_blank" rel="noopener noreferrer">ProfileMe.dev</a></p>
+    </footer>
+  </div>
+</body>
+</html>
