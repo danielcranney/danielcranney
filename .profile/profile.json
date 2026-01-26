@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-26T22:52:54.833Z",
+  "updatedAt": "2026-01-26T23:22:07.339Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -21,9 +21,58 @@
       "additionalInfo": ""
     },
     "skills": {
-      "core": [],
-      "scripting": [],
-      "editors": [],
+      "core": [
+        {
+          "name": "C",
+          "path": "http://localhost:3000/icons/skills/c-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
+        },
+        {
+          "name": "C++",
+          "path": "http://localhost:3000/icons/skills/cplusplus-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
+        },
+        {
+          "name": "C#",
+          "path": "http://localhost:3000/icons/skills/csharp-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+        },
+        {
+          "name": "Spring Boot",
+          "path": "http://localhost:3000/icons/skills/spring-boot-colored.svg",
+          "link": "https://spring.io/"
+        },
+        {
+          "name": "Coffeescript",
+          "path": "http://localhost:3000/icons/skills/coffeescript-colored.svg",
+          "darkPath": "http://localhost:3000/icons/skills/coffeescript-colored-dark.svg",
+          "link": "https://coffeescript.org/"
+        }
+      ],
+      "scripting": [
+        {
+          "name": "GNU Bash",
+          "path": "http://localhost:3000/icons/skills/gnubash.svg",
+          "link": "https://www.gnu.org/software/bash/"
+        }
+      ],
+      "editors": [
+        {
+          "name": "VS Code",
+          "path": "http://localhost:3000/icons/skills/visualstudiocode-colored.svg",
+          "link": "https://code.visualstudio.com/"
+        },
+        {
+          "name": "Vim",
+          "path": "http://localhost:3000/icons/skills/vim-colored.svg",
+          "link": "https://www.vim.org/"
+        },
+        {
+          "name": "Neovim",
+          "path": "http://localhost:3000/icons/skills/neovim-colored.svg",
+          "link": "https://neovim.io/"
+        }
+      ],
       "frontend": [],
       "backend": [],
       "software": [],
