@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-26T23:39:19.882Z",
+  "updatedAt": "2026-01-26T23:47:21.543Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -324,5 +324,9 @@
   "render": {
     "readmeTemplate": "default",
     "readmeOptions": {}
+  },
+  "portfolio": {
+    "template": "minimal",
+    "options": {}
   }
 }
