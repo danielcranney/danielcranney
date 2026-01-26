@@ -1,11 +1,5 @@
-Hi 👋 My name is DAKJKKJHKJHKJH
+Hi 👋 My name is Daniel Cranney
 ===============================
 
-KJHJKHHJKH
-----------
-
-KJHKJHKJ
-
-*   🌍  I'm based in KJHJKHJKH
-*   🖥️  See my portfolio at [KJHKKHKJH](http://KJHKJ)
-*   ✉️  You can contact me at [,M,MNM,N](mailto:,M,MNM,N)
+Web Developer
+-------------
