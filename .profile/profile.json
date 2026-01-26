@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-01-26T22:44:35.902Z",
+  "generator": {
+    "name": "ProfileMe.dev"
+  },
+  "profile": {
+    "introduction": {
+      "name": "",
+      "animatedHand": 0,
+      "shortDescription": "",
+      "longDescription": "",
+      "location": "",
+      "portfolioTitle": "",
+      "portfolioLink": "",
+      "emailMe": "",
+      "workingOnTitle": "",
+      "workingOnLink": "",
+      "learning": "",
+      "collaborateOn": "",
+      "additionalInfo": ""
+    },
+    "skills": {
+      "core": [],
+      "scripting": [],
+      "editors": [],
+      "frontend": [],
+      "backend": [],
+      "software": [],
+      "web3": [],
+      "cloud": [],
+      "cms": [],
+      "embedded": [],
+      "operatingSystem": [],
+      "other": []
+    },
+    "socials": {
+      "github": {
+        "label": "GitHub",
+        "path": "http://localhost:3000/icons/socials/github.svg",
+        "darkPath": "http://localhost:3000/icons/socials/github-dark.svg",
+        "linkPrefix": "https://www.github.com/",
+        "linkSuffix": ""
+      },
+      "gitlab": {
+        "label": "GitLab",
+        "path": "http://localhost:3000/icons/socials/gitlab.svg",
+        "linkPrefix": "https://www.gitlab.com/",
+        "linkSuffix": ""
+      },
+      "twitter": {
+        "label": "Twitter",
+        "path": "http://localhost:3000/icons/socials/twitter.svg",
+        "darkPath": "http://localhost:3000/icons/socials/twitter-dark.svg",
+        "linkPrefix": "https://www.x.com/",
+        "linkSuffix": ""
+      },
+      "threads": {
+        "label": "Threads",
+        "path": "http://localhost:3000/icons/socials/threads.svg",
+        "darkPath": "http://localhost:3000/icons/socials/threads-dark.svg",
+        "linkPrefix": "https://www.threads.net/@",
+        "linkSuffix": ""
+      },
+      "hashnode": {
+        "label": "Hashnode",
+        "path": "http://localhost:3000/icons/socials/hashnode.svg",
+        "darkPath": "http://localhost:3000/icons/socials/hashnode-dark.svg",
+        "linkPrefix": "https://",
+        "linkSuffix": "",
+        "linkSuffixTwo": ".hashnode.dev"
+      },
+      "medium": {
+        "label": "Medium",
+        "path": "http://localhost:3000/icons/socials/medium.svg",
+        "darkPath": "http://localhost:3000/icons/socials/medium-dark.svg",
+        "linkPrefix": "http://www.medium.com/",
+        "linkSuffix": ""
+      },
+      "devdotto": {
+        "label": "DEV",
+        "path": "http://localhost:3000/icons/socials/devdotto.svg",
+        "darkPath": "http://localhost:3000/icons/socials/devdotto-dark.svg",
+        "linkPrefix": "https://www.dev.to/",
+        "linkSuffix": ""
+      },
+      "linkedin": {
+        "label": "LinkedIn",
+        "path": "http://localhost:3000/icons/socials/linkedin.svg",
+        "darkPath": "http://localhost:3000/icons/socials/linkedin-dark.svg",
+        "linkPrefix": "https://www.linkedin.com/in/",
+        "linkSuffix": ""
+      },
+      "polywork": {
+        "label": "Polywork",
+        "path": "http://localhost:3000/icons/socials/polywork.svg",
+        "darkPath": "http://localhost:3000/icons/socials/polywork-dark.svg",
+        "linkPrefix": "https://www.polywork.com/",
+        "linkSuffix": ""
+      },
+      "twitch": {
+        "label": "Twitch",
+        "path": "http://localhost:3000/icons/socials/twitch.svg",
+        "darkPath": "http://localhost:3000/icons/socials/twitch-dark.svg",
+        "linkPrefix": "https://www.twitch.tv/",
+        "linkSuffix": ""
+      },
+      "youtube": {
+        "label": "YouTube",
+        "path": "http://localhost:3000/icons/socials/youtube.svg",
+        "darkPath": "http://localhost:3000/icons/socials/youtube-dark.svg",
+        "linkPrefix": "https://www.youtube.com/@",
+        "linkSuffix": ""
+      },
+      "discord": {
+        "label": "Discord",
+        "path": "http://localhost:3000/icons/socials/discord.svg",
+        "darkPath": "http://localhost:3000/icons/socials/discord-dark.svg",
+        "linkPrefix": "https://discord.com/users/",
+        "linkSuffix": ""
+      },
+      "instagram": {
+        "label": "Instragram",
+        "path": "http://localhost:3000/icons/socials/instagram.svg",
+        "darkPath": "http://localhost:3000/icons/socials/instagram-dark.svg",
+        "linkPrefix": "http://www.instagram.com/",
+        "linkSuffix": ""
+      },
+      "facebook": {
+        "label": "Facebook",
+        "path": "http://localhost:3000/icons/socials/facebook.svg",
+        "darkPath": "http://localhost:3000/icons/socials/facebook-dark.svg",
+        "linkPrefix": "https://www.facebook.com/",
+        "linkSuffix": ""
+      },
+      "dribbble": {
+        "label": "Dribble",
+        "path": "http://localhost:3000/icons/socials/dribbble.svg",
+        "darkPath": "http://localhost:3000/icons/socials/dribbble-dark.svg",
+        "linkPrefix": "https://www.dribbble.com/",
+        "linkSuffix": ""
+      },
+      "behance": {
+        "label": "Behance",
+        "path": "http://localhost:3000/icons/socials/behance.svg",
+        "darkPath": "http://localhost:3000/icons/socials/behance-dark.svg",
+        "linkPrefix": "https://www.behance.com/",
+        "linkSuffix": ""
+      },
+      "codesandbox": {
+        "label": "CodeSandbox",
+        "path": "http://localhost:3000/icons/socials/codesandbox.svg",
+        "darkPath": "http://localhost:3000/icons/socials/codesandbox-dark.svg",
+        "linkPrefix": "https://codesandbox.io/u/",
+        "linkSuffix": ""
+      },
+      "codepen": {
+        "label": "CodePen",
+        "path": "http://localhost:3000/icons/socials/codepen.svg",
+        "darkPath": "http://localhost:3000/icons/socials/codepen-dark.svg",
+        "linkPrefix": "https://www.codepen.io/",
+        "linkSuffix": ""
+      },
+      "stackoverflow": {
+        "label": "Stack Overflow",
+        "path": "http://localhost:3000/icons/socials/stackoverflow.svg",
+        "darkPath": "http://localhost:3000/icons/socials/stackoverflow-dark.svg",
+        "linkPrefix": "https://www.stackoverflow.com/users/",
+        "linkSuffix": ""
+      },
+      "rss": {
+        "label": "RSS",
+        "path": "http://localhost:3000/icons/socials/rss.svg",
+        "darkPath": "http://localhost:3000/icons/socials/rss-dark.svg",
+        "linkPrefix": "https://",
+        "linkSuffix": ""
+      }
+    },
+    "badges": {
+      "twitterFollowers": {
+        "selected": false
+      },
+      "githubFollowers": {
+        "selected": false
+      },
+      "githubVisits": {
+        "selected": false
+      },
+      "githubStatsCard": {
+        "selected": false,
+        "stars": true,
+        "commits": true,
+        "prs": true,
+        "issues": true,
+        "contribs": true,
+        "privateCommits": true
+      },
+      "githubCommitsGraph": {
+        "selected": false
+      },
+      "githubStreak": {
+        "selected": false
+      },
+      "twitchStatus": {
+        "selected": false
+      },
+      "topLangsCard": {
+        "selected": false
+      },
+      "reposCard": {
+        "selected": false,
+        "repoOne": "",
+        "repoTwo": null,
+        "repoThree": null,
+        "repoFour": null
+      },
+      "cardStyle": {
+        "selected": false,
+        "titleColor": "0891b2",
+        "titleColorEdit": false,
+        "textColor": "ffffff",
+        "textColorEdit": false,
+        "iconColor": "0891b2",
+        "iconColorEdit": false,
+        "bgColor": "1c1917",
+        "bgColorEdit": false,
+        "hideBorder": true,
+        "showIcons": true
+      }
+    },
+    "support": {
+      "buymeacoffee": {
+        "path": "http://localhost:3000/icons/support/buymeacoffee.svg",
+        "previewIMG": "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png",
+        "linkPrefix": "https://www.buymeacoffee.com/",
+        "linkSuffix": ""
+      },
+      "kofi": {
+        "path": "http://localhost:3000/icons/support/kofi.svg",
+        "previewIMG": "https://storage.ko-fi.com/cdn/kofi2.png?v=3",
+        "linkPrefix": "https://www.ko-fi.com/",
+        "linkSuffix": ""
+      }
+    },
+    "sectionOrder": [
+      "introduction",
+      "skills",
+      "socials",
+      "badges",
+      "support"
+    ],
+    "socialOrder": [
+      "github",
+      "gitlab",
+      "twitter",
+      "threads",
+      "hashnode",
+      "medium",
+      "devdotto",
+      "linkedin",
+      "polywork",
+      "twitch",
+      "youtube",
+      "behance",
+      "codepen",
+      "codesandbox",
+      "discord",
+      "dribbble",
+      "facebook",
+      "rss",
+      "stackoverflow"
+    ],
+    "skillsOrder": []
+  },
+  "render": {
+    "readmeTemplate": "default",
+    "readmeOptions": {}
+  }
+}
