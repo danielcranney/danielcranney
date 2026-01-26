@@ -7,62 +7,49 @@
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
-      -webkit-font-smoothing: antialiased;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: #1f2937;
-      min-height: 100vh;
+      font-family: 'Georgia', 'Times New Roman', serif;
+      line-height: 1.8;
+      color: #2c3e50;
+      background: #f8f9fa;
     }
-    .container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+    .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
     header {
-      text-align: center;
-      padding: 4rem 0;
-      color: white;
-    }
-    h1 { font-size: 3.5rem; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.2); }
-    .subtitle { font-size: 1.5rem; margin-bottom: 1rem; opacity: 0.9; }
-    .content {
       background: white;
-      border-radius: 20px;
       padding: 3rem;
-      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-      margin-top: -2rem;
+      border-bottom: 3px solid #2c3e50;
+      margin-bottom: 2rem;
+      text-align: center;
     }
-    section { margin-bottom: 3rem; }
+    h1 { font-size: 2.5rem; color: #2c3e50; margin-bottom: 0.5rem; }
+    .subtitle { font-size: 1.2rem; color: #7f8c8d; font-style: italic; }
+    section {
+      background: white;
+      padding: 2rem;
+      margin-bottom: 2rem;
+      border-left: 4px solid #2c3e50;
+    }
     h2 {
-      font-size: 2rem;
-      margin-bottom: 1.5rem;
-      color: #667eea;
-      border-left: 4px solid #764ba2;
-      padding-left: 1rem;
+      font-size: 1.8rem;
+      color: #2c3e50;
+      margin-bottom: 1rem;
+      border-bottom: 2px solid #ecf0f1;
+      padding-bottom: 0.5rem;
     }
     .skill-item {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
+      background: #ecf0f1;
       padding: 0.5rem 1rem;
-      border-radius: 20px;
-      font-size: 0.85rem;
-      font-weight: 600;
+      border-radius: 4px;
       display: inline-block;
       margin: 0.25rem;
+      font-size: 0.9rem;
     }
     .social-link {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
-      padding: 0.75rem 1.5rem;
-      border-radius: 25px;
+      color: #3498db;
       text-decoration: none;
-      display: inline-block;
-      margin: 0.5rem;
-      transition: transform 0.2s;
+      margin-right: 1.5rem;
+      border-bottom: 1px solid #3498db;
     }
-    .social-link:hover { transform: translateY(-2px); }
-    footer {
-      text-align: center;
-      padding: 2rem 0;
-      color: white;
-      margin-top: 2rem;
-    }
+    .social-link:hover { border-bottom-width: 2px; }
   </style>
 </head>
 <body>
@@ -71,28 +58,23 @@
       <h1>Daniel Cranney</h1>
       <p class="subtitle">Web Developer</p>
     </header>
-    <div class="content">
-      
-      
-      <section id="skills">
-        <h2>Skills</h2>
-        <div>
-          <span class="skill-item" title="C">C</span><span class="skill-item" title="C++">C++</span><span class="skill-item" title="C#">C#</span><span class="skill-item" title="Spring Boot">SB</span><span class="skill-item" title="Coffeescript">COF</span><span class="skill-item" title="GNU Bash">BAS</span><span class="skill-item" title="VS Code">VS</span><span class="skill-item" title="Vim">VIM</span><span class="skill-item" title="Neovim">NEO</span>
-        </div>
-      </section>
-      
-      
-      <section id="socials">
-        <h2>Connect</h2>
-        <div>
-          <a href="https://www.github.com/" class="social-link" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.gitlab.com/" class="social-link" target="_blank" rel="noopener noreferrer">GitLab</a><a href="https://www.x.com/" class="social-link" target="_blank" rel="noopener noreferrer">Twitter</a><a href="https://www.threads.net/@" class="social-link" target="_blank" rel="noopener noreferrer">Threads</a><a href="https://.hashnode.dev" class="social-link" target="_blank" rel="noopener noreferrer">Hashnode</a><a href="http://www.medium.com/" class="social-link" target="_blank" rel="noopener noreferrer">Medium</a><a href="https://www.dev.to/" class="social-link" target="_blank" rel="noopener noreferrer">DEV</a><a href="https://www.linkedin.com/in/" class="social-link" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="https://www.polywork.com/" class="social-link" target="_blank" rel="noopener noreferrer">Polywork</a><a href="https://www.twitch.tv/" class="social-link" target="_blank" rel="noopener noreferrer">Twitch</a><a href="https://www.youtube.com/@" class="social-link" target="_blank" rel="noopener noreferrer">YouTube</a><a href="https://www.behance.com/" class="social-link" target="_blank" rel="noopener noreferrer">Behance</a><a href="https://www.codepen.io/" class="social-link" target="_blank" rel="noopener noreferrer">CodePen</a><a href="https://codesandbox.io/u/" class="social-link" target="_blank" rel="noopener noreferrer">CodeSandbox</a><a href="https://discord.com/users/" class="social-link" target="_blank" rel="noopener noreferrer">Discord</a><a href="https://www.dribbble.com/" class="social-link" target="_blank" rel="noopener noreferrer">Dribble</a><a href="https://www.facebook.com/" class="social-link" target="_blank" rel="noopener noreferrer">Facebook</a><a href="https://" class="social-link" target="_blank" rel="noopener noreferrer">RSS</a><a href="https://www.stackoverflow.com/users/" class="social-link" target="_blank" rel="noopener noreferrer">Stack Overflow</a>
-        </div>
-      </section>
-      
-    </div>
-    <footer>
-      <p>Generated by <a href="https://profileme.dev" target="_blank" rel="noopener noreferrer" style="color: white;">ProfileMe.dev</a></p>
-    </footer>
+    
+    
+    <section id="skills">
+      <h2>Skills</h2>
+      <div>
+        <span class="skill-item" title="C">C</span><span class="skill-item" title="C++">C++</span><span class="skill-item" title="C#">C#</span><span class="skill-item" title="Spring Boot">SB</span><span class="skill-item" title="Coffeescript">COF</span><span class="skill-item" title="GNU Bash">BAS</span><span class="skill-item" title="VS Code">VS</span><span class="skill-item" title="Vim">VIM</span><span class="skill-item" title="Neovim">NEO</span>
+      </div>
+    </section>
+    
+    
+    <section id="socials">
+      <h2>Connect</h2>
+      <div>
+        <a href="https://www.github.com/" class="social-link" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.gitlab.com/" class="social-link" target="_blank" rel="noopener noreferrer">GitLab</a><a href="https://www.x.com/" class="social-link" target="_blank" rel="noopener noreferrer">Twitter</a><a href="https://www.threads.net/@" class="social-link" target="_blank" rel="noopener noreferrer">Threads</a><a href="https://.hashnode.dev" class="social-link" target="_blank" rel="noopener noreferrer">Hashnode</a><a href="http://www.medium.com/" class="social-link" target="_blank" rel="noopener noreferrer">Medium</a><a href="https://www.dev.to/" class="social-link" target="_blank" rel="noopener noreferrer">DEV</a><a href="https://www.linkedin.com/in/" class="social-link" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="https://www.polywork.com/" class="social-link" target="_blank" rel="noopener noreferrer">Polywork</a><a href="https://www.twitch.tv/" class="social-link" target="_blank" rel="noopener noreferrer">Twitch</a><a href="https://www.youtube.com/@" class="social-link" target="_blank" rel="noopener noreferrer">YouTube</a><a href="https://www.behance.com/" class="social-link" target="_blank" rel="noopener noreferrer">Behance</a><a href="https://www.codepen.io/" class="social-link" target="_blank" rel="noopener noreferrer">CodePen</a><a href="https://codesandbox.io/u/" class="social-link" target="_blank" rel="noopener noreferrer">CodeSandbox</a><a href="https://discord.com/users/" class="social-link" target="_blank" rel="noopener noreferrer">Discord</a><a href="https://www.dribbble.com/" class="social-link" target="_blank" rel="noopener noreferrer">Dribble</a><a href="https://www.facebook.com/" class="social-link" target="_blank" rel="noopener noreferrer">Facebook</a><a href="https://" class="social-link" target="_blank" rel="noopener noreferrer">RSS</a><a href="https://www.stackoverflow.com/users/" class="social-link" target="_blank" rel="noopener noreferrer">Stack Overflow</a>
+      </div>
+    </section>
+    
   </div>
 </body>
 </html>
