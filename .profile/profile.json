@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:42:55.004Z",
+  "updatedAt": "2026-01-27T21:46:33.049Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -41,6 +41,16 @@
           "name": "Kotlin",
           "path": ".profile/assets/icons/skills/kotlin-colored.svg",
           "link": "https://kotlinlang.org/"
+        },
+        {
+          "name": "Dart",
+          "path": ".profile/assets/icons/skills/dart-colored.svg",
+          "link": "https://dart.dev/"
+        },
+        {
+          "name": "Python",
+          "path": ".profile/assets/icons/skills/python-colored.svg",
+          "link": "https://www.python.org/"
         }
       ],
       "scripting": [],
