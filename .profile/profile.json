@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T22:21:11.746Z",
+  "updatedAt": "2026-01-27T22:30:10.765Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -23,11 +23,6 @@
     "skills": {
       "core": [
         {
-          "name": "Lua",
-          "path": ".profile/assets/icons/skills/lua-colored.svg",
-          "link": "https://lua.org/"
-        },
-        {
           "name": "Perl",
           "path": ".profile/assets/icons/skills/perl-colored.svg",
           "link": "https://www.perl.org/"
@@ -41,21 +36,33 @@
           "name": "Python",
           "path": ".profile/assets/icons/skills/python-colored.svg",
           "link": "https://www.python.org/"
-        },
-        {
-          "name": "rlang",
-          "path": ".profile/assets/icons/skills/rlang-colored.svg",
-          "link": "https://www.r-project.org/"
-        },
-        {
-          "name": "Ruby",
-          "path": ".profile/assets/icons/skills/ruby-colored.svg",
-          "link": "https://www.ruby-lang.org/en/"
         }
       ],
       "scripting": [],
-      "editors": [],
-      "frontend": [],
+      "editors": [
+        {
+          "name": "Emacs",
+          "path": ".profile/assets/icons/skills/emacs-colored.svg",
+          "link": "https://www.gnu.org/software/emacs/"
+        },
+        {
+          "name": "Sublime Text",
+          "path": ".profile/assets/icons/skills/sublimetext-colored.svg",
+          "link": "https://www.sublimetext.com/index2"
+        }
+      ],
+      "frontend": [
+        {
+          "name": "HTML5",
+          "path": ".profile/assets/icons/skills/html5-colored.svg",
+          "link": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+        },
+        {
+          "name": "React",
+          "path": ".profile/assets/icons/skills/react-colored.svg",
+          "link": "https://reactjs.org/"
+        }
+      ],
       "backend": [],
       "software": [],
       "web3": [],
