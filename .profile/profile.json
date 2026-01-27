@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:56:20.067Z",
+  "updatedAt": "2026-01-27T21:59:23.111Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -23,49 +23,24 @@
     "skills": {
       "core": [
         {
-          "name": "Go",
-          "path": ".profile/assets/icons/skills/go-colored.svg",
-          "link": "https://go.dev/doc/"
-        },
-        {
-          "name": "Swift",
-          "path": ".profile/assets/icons/skills/swift-colored.svg",
-          "link": "https://developer.apple.com/swift/"
-        },
-        {
-          "name": "Rust",
-          "path": ".profile/assets/icons/skills/rust-colored.svg",
-          "darkPath": ".profile/assets/icons/skills/rust-colored-dark.svg",
-          "link": "https://www.rust-lang.org/"
-        },
-        {
-          "name": "rlang",
-          "path": ".profile/assets/icons/skills/rlang-colored.svg",
-          "link": "https://www.r-project.org/"
-        },
-        {
-          "name": "PHP",
-          "path": ".profile/assets/icons/skills/php-colored.svg",
-          "link": "https://www.php.net/"
-        },
-        {
-          "name": "Python",
-          "path": ".profile/assets/icons/skills/python-colored.svg",
-          "link": "https://www.python.org/"
-        },
-        {
-          "name": "C#",
-          "path": ".profile/assets/icons/skills/csharp-colored.svg",
-          "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
-        },
-        {
-          "name": "Spring Boot",
-          "path": ".profile/assets/icons/skills/spring-boot-colored.svg",
-          "link": "https://spring.io/"
+          "name": "Dart",
+          "path": ".profile/assets/icons/skills/dart-colored.svg",
+          "link": "https://dart.dev/"
         }
       ],
       "scripting": [],
-      "editors": [],
+      "editors": [
+        {
+          "name": "XCode",
+          "path": ".profile/assets/icons/skills/xcode-colored.svg",
+          "link": "https://developer.apple.com/xcode/"
+        },
+        {
+          "name": "Emacs",
+          "path": ".profile/assets/icons/skills/emacs-colored.svg",
+          "link": "https://www.gnu.org/software/emacs/"
+        }
+      ],
       "frontend": [],
       "backend": [],
       "software": [],
