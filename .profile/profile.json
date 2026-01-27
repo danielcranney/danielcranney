@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T20:59:13.785Z",
+  "updatedAt": "2026-01-27T21:24:33.584Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -24,52 +24,108 @@
       "core": [
         {
           "name": "C",
-          "path": "http://localhost:3000/icons/skills/c-colored.svg",
+          "path": ".profile/assets/icons/skills/c-colored.svg",
           "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
         },
         {
           "name": "C++",
-          "path": "http://localhost:3000/icons/skills/cplusplus-colored.svg",
+          "path": ".profile/assets/icons/skills/cplusplus-colored.svg",
           "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
         },
         {
           "name": "C#",
-          "path": "http://localhost:3000/icons/skills/csharp-colored.svg",
+          "path": ".profile/assets/icons/skills/csharp-colored.svg",
           "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
         },
         {
           "name": "Spring Boot",
-          "path": "http://localhost:3000/icons/skills/spring-boot-colored.svg",
+          "path": ".profile/assets/icons/skills/spring-boot-colored.svg",
           "link": "https://spring.io/"
         },
         {
           "name": "Coffeescript",
-          "path": "http://localhost:3000/icons/skills/coffeescript-colored.svg",
-          "darkPath": "http://localhost:3000/icons/skills/coffeescript-colored-dark.svg",
+          "path": ".profile/assets/icons/skills/coffeescript-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/coffeescript-colored-dark.svg",
           "link": "https://coffeescript.org/"
+        },
+        {
+          "name": "Dart",
+          "path": ".profile/assets/icons/skills/dart-colored.svg",
+          "link": "https://dart.dev/"
+        },
+        {
+          "name": "Git",
+          "path": ".profile/assets/icons/skills/git-colored.svg",
+          "link": "https://git-scm.com/"
+        },
+        {
+          "name": "Go",
+          "path": ".profile/assets/icons/skills/go-colored.svg",
+          "link": "https://go.dev/doc/"
+        },
+        {
+          "name": "Java",
+          "path": ".profile/assets/icons/skills/java-colored.svg",
+          "link": "https://www.oracle.com/java/"
+        },
+        {
+          "name": "Rust",
+          "path": ".profile/assets/icons/skills/rust-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/rust-colored-dark.svg",
+          "link": "https://www.rust-lang.org/"
+        },
+        {
+          "name": "Ruby",
+          "path": ".profile/assets/icons/skills/ruby-colored.svg",
+          "link": "https://www.ruby-lang.org/en/"
+        },
+        {
+          "name": "rlang",
+          "path": ".profile/assets/icons/skills/rlang-colored.svg",
+          "link": "https://www.r-project.org/"
+        },
+        {
+          "name": "Python",
+          "path": ".profile/assets/icons/skills/python-colored.svg",
+          "link": "https://www.python.org/"
+        },
+        {
+          "name": "PHP",
+          "path": ".profile/assets/icons/skills/php-colored.svg",
+          "link": "https://www.php.net/"
+        },
+        {
+          "name": "Kotlin",
+          "path": ".profile/assets/icons/skills/kotlin-colored.svg",
+          "link": "https://kotlinlang.org/"
+        },
+        {
+          "name": "Lua",
+          "path": ".profile/assets/icons/skills/lua-colored.svg",
+          "link": "https://lua.org/"
         }
       ],
       "scripting": [
         {
           "name": "GNU Bash",
-          "path": "http://localhost:3000/icons/skills/gnubash.svg",
+          "path": ".profile/assets/icons/skills/gnubash.svg",
           "link": "https://www.gnu.org/software/bash/"
         }
       ],
       "editors": [
         {
           "name": "VS Code",
-          "path": "http://localhost:3000/icons/skills/visualstudiocode-colored.svg",
+          "path": ".profile/assets/icons/skills/visualstudiocode-colored.svg",
           "link": "https://code.visualstudio.com/"
         },
         {
           "name": "Vim",
-          "path": "http://localhost:3000/icons/skills/vim-colored.svg",
+          "path": ".profile/assets/icons/skills/vim-colored.svg",
           "link": "https://www.vim.org/"
         },
         {
           "name": "Neovim",
-          "path": "http://localhost:3000/icons/skills/neovim-colored.svg",
+          "path": ".profile/assets/icons/skills/neovim-colored.svg",
           "link": "https://neovim.io/"
         }
       ],
@@ -86,141 +142,141 @@
     "socials": {
       "github": {
         "label": "GitHub",
-        "path": "http://localhost:3000/icons/socials/github.svg",
-        "darkPath": "http://localhost:3000/icons/socials/github-dark.svg",
+        "path": ".profile/assets/icons/socials/github.svg",
+        "darkPath": ".profile/assets/icons/socials/github-dark.svg",
         "linkPrefix": "https://www.github.com/",
         "linkSuffix": ""
       },
       "gitlab": {
         "label": "GitLab",
-        "path": "http://localhost:3000/icons/socials/gitlab.svg",
+        "path": ".profile/assets/icons/socials/gitlab.svg",
         "linkPrefix": "https://www.gitlab.com/",
         "linkSuffix": ""
       },
       "twitter": {
         "label": "Twitter",
-        "path": "http://localhost:3000/icons/socials/twitter.svg",
-        "darkPath": "http://localhost:3000/icons/socials/twitter-dark.svg",
+        "path": ".profile/assets/icons/socials/twitter.svg",
+        "darkPath": ".profile/assets/icons/socials/twitter-dark.svg",
         "linkPrefix": "https://www.x.com/",
         "linkSuffix": ""
       },
       "threads": {
         "label": "Threads",
-        "path": "http://localhost:3000/icons/socials/threads.svg",
-        "darkPath": "http://localhost:3000/icons/socials/threads-dark.svg",
+        "path": ".profile/assets/icons/socials/threads.svg",
+        "darkPath": ".profile/assets/icons/socials/threads-dark.svg",
         "linkPrefix": "https://www.threads.net/@",
         "linkSuffix": ""
       },
       "hashnode": {
         "label": "Hashnode",
-        "path": "http://localhost:3000/icons/socials/hashnode.svg",
-        "darkPath": "http://localhost:3000/icons/socials/hashnode-dark.svg",
+        "path": ".profile/assets/icons/socials/hashnode.svg",
+        "darkPath": ".profile/assets/icons/socials/hashnode-dark.svg",
         "linkPrefix": "https://",
         "linkSuffix": "",
         "linkSuffixTwo": ".hashnode.dev"
       },
       "medium": {
         "label": "Medium",
-        "path": "http://localhost:3000/icons/socials/medium.svg",
-        "darkPath": "http://localhost:3000/icons/socials/medium-dark.svg",
+        "path": ".profile/assets/icons/socials/medium.svg",
+        "darkPath": ".profile/assets/icons/socials/medium-dark.svg",
         "linkPrefix": "http://www.medium.com/",
         "linkSuffix": ""
       },
       "devdotto": {
         "label": "DEV",
-        "path": "http://localhost:3000/icons/socials/devdotto.svg",
-        "darkPath": "http://localhost:3000/icons/socials/devdotto-dark.svg",
+        "path": ".profile/assets/icons/socials/devdotto.svg",
+        "darkPath": ".profile/assets/icons/socials/devdotto-dark.svg",
         "linkPrefix": "https://www.dev.to/",
         "linkSuffix": ""
       },
       "linkedin": {
         "label": "LinkedIn",
-        "path": "http://localhost:3000/icons/socials/linkedin.svg",
-        "darkPath": "http://localhost:3000/icons/socials/linkedin-dark.svg",
+        "path": ".profile/assets/icons/socials/linkedin.svg",
+        "darkPath": ".profile/assets/icons/socials/linkedin-dark.svg",
         "linkPrefix": "https://www.linkedin.com/in/",
         "linkSuffix": ""
       },
       "polywork": {
         "label": "Polywork",
-        "path": "http://localhost:3000/icons/socials/polywork.svg",
-        "darkPath": "http://localhost:3000/icons/socials/polywork-dark.svg",
+        "path": ".profile/assets/icons/socials/polywork.svg",
+        "darkPath": ".profile/assets/icons/socials/polywork-dark.svg",
         "linkPrefix": "https://www.polywork.com/",
         "linkSuffix": ""
       },
       "twitch": {
         "label": "Twitch",
-        "path": "http://localhost:3000/icons/socials/twitch.svg",
-        "darkPath": "http://localhost:3000/icons/socials/twitch-dark.svg",
+        "path": ".profile/assets/icons/socials/twitch.svg",
+        "darkPath": ".profile/assets/icons/socials/twitch-dark.svg",
         "linkPrefix": "https://www.twitch.tv/",
         "linkSuffix": ""
       },
       "youtube": {
         "label": "YouTube",
-        "path": "http://localhost:3000/icons/socials/youtube.svg",
-        "darkPath": "http://localhost:3000/icons/socials/youtube-dark.svg",
+        "path": ".profile/assets/icons/socials/youtube.svg",
+        "darkPath": ".profile/assets/icons/socials/youtube-dark.svg",
         "linkPrefix": "https://www.youtube.com/@",
         "linkSuffix": ""
       },
       "discord": {
         "label": "Discord",
-        "path": "http://localhost:3000/icons/socials/discord.svg",
-        "darkPath": "http://localhost:3000/icons/socials/discord-dark.svg",
+        "path": ".profile/assets/icons/socials/discord.svg",
+        "darkPath": ".profile/assets/icons/socials/discord-dark.svg",
         "linkPrefix": "https://discord.com/users/",
         "linkSuffix": ""
       },
       "instagram": {
         "label": "Instragram",
-        "path": "http://localhost:3000/icons/socials/instagram.svg",
-        "darkPath": "http://localhost:3000/icons/socials/instagram-dark.svg",
+        "path": ".profile/assets/icons/socials/instagram.svg",
+        "darkPath": ".profile/assets/icons/socials/instagram-dark.svg",
         "linkPrefix": "http://www.instagram.com/",
         "linkSuffix": ""
       },
       "facebook": {
         "label": "Facebook",
-        "path": "http://localhost:3000/icons/socials/facebook.svg",
-        "darkPath": "http://localhost:3000/icons/socials/facebook-dark.svg",
+        "path": ".profile/assets/icons/socials/facebook.svg",
+        "darkPath": ".profile/assets/icons/socials/facebook-dark.svg",
         "linkPrefix": "https://www.facebook.com/",
         "linkSuffix": ""
       },
       "dribbble": {
         "label": "Dribble",
-        "path": "http://localhost:3000/icons/socials/dribbble.svg",
-        "darkPath": "http://localhost:3000/icons/socials/dribbble-dark.svg",
+        "path": ".profile/assets/icons/socials/dribbble.svg",
+        "darkPath": ".profile/assets/icons/socials/dribbble-dark.svg",
         "linkPrefix": "https://www.dribbble.com/",
         "linkSuffix": ""
       },
       "behance": {
         "label": "Behance",
-        "path": "http://localhost:3000/icons/socials/behance.svg",
-        "darkPath": "http://localhost:3000/icons/socials/behance-dark.svg",
+        "path": ".profile/assets/icons/socials/behance.svg",
+        "darkPath": ".profile/assets/icons/socials/behance-dark.svg",
         "linkPrefix": "https://www.behance.com/",
         "linkSuffix": ""
       },
       "codesandbox": {
         "label": "CodeSandbox",
-        "path": "http://localhost:3000/icons/socials/codesandbox.svg",
-        "darkPath": "http://localhost:3000/icons/socials/codesandbox-dark.svg",
+        "path": ".profile/assets/icons/socials/codesandbox.svg",
+        "darkPath": ".profile/assets/icons/socials/codesandbox-dark.svg",
         "linkPrefix": "https://codesandbox.io/u/",
         "linkSuffix": ""
       },
       "codepen": {
         "label": "CodePen",
-        "path": "http://localhost:3000/icons/socials/codepen.svg",
-        "darkPath": "http://localhost:3000/icons/socials/codepen-dark.svg",
+        "path": ".profile/assets/icons/socials/codepen.svg",
+        "darkPath": ".profile/assets/icons/socials/codepen-dark.svg",
         "linkPrefix": "https://www.codepen.io/",
         "linkSuffix": ""
       },
       "stackoverflow": {
         "label": "Stack Overflow",
-        "path": "http://localhost:3000/icons/socials/stackoverflow.svg",
-        "darkPath": "http://localhost:3000/icons/socials/stackoverflow-dark.svg",
+        "path": ".profile/assets/icons/socials/stackoverflow.svg",
+        "darkPath": ".profile/assets/icons/socials/stackoverflow-dark.svg",
         "linkPrefix": "https://www.stackoverflow.com/users/",
         "linkSuffix": ""
       },
       "rss": {
         "label": "RSS",
-        "path": "http://localhost:3000/icons/socials/rss.svg",
-        "darkPath": "http://localhost:3000/icons/socials/rss-dark.svg",
+        "path": ".profile/assets/icons/socials/rss.svg",
+        "darkPath": ".profile/assets/icons/socials/rss-dark.svg",
         "linkPrefix": "https://",
         "linkSuffix": ""
       }
@@ -279,13 +335,13 @@
     },
     "support": {
       "buymeacoffee": {
-        "path": "http://localhost:3000/icons/support/buymeacoffee.svg",
+        "path": ".profile/assets/icons/support/buymeacoffee.svg",
         "previewIMG": "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png",
         "linkPrefix": "https://www.buymeacoffee.com/",
         "linkSuffix": ""
       },
       "kofi": {
-        "path": "http://localhost:3000/icons/support/kofi.svg",
+        "path": ".profile/assets/icons/support/kofi.svg",
         "previewIMG": "https://storage.ko-fi.com/cdn/kofi2.png?v=3",
         "linkPrefix": "https://www.ko-fi.com/",
         "linkSuffix": ""
@@ -326,7 +382,7 @@
     "readmeOptions": {}
   },
   "portfolio": {
-    "template": "classic",
+    "template": "minimal",
     "options": {}
   }
 }
