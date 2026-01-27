@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:37:26.687Z",
+  "updatedAt": "2026-01-27T21:38:28.760Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -23,65 +23,18 @@
     "skills": {
       "core": [
         {
-          "name": "C",
-          "path": ".profile/assets/icons/skills/c-colored.svg",
-          "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
-        },
-        {
-          "name": "C++",
-          "path": ".profile/assets/icons/skills/cplusplus-colored.svg",
-          "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
-        },
-        {
-          "name": "C#",
-          "path": ".profile/assets/icons/skills/csharp-colored.svg",
-          "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
-        },
-        {
-          "name": "Spring Boot",
-          "path": ".profile/assets/icons/skills/spring-boot-colored.svg",
-          "link": "https://spring.io/"
-        },
-        {
-          "name": "Dart",
-          "path": ".profile/assets/icons/skills/dart-colored.svg",
-          "link": "https://dart.dev/"
+          "name": "rlang",
+          "path": ".profile/assets/icons/skills/rlang-colored.svg",
+          "link": "https://www.r-project.org/"
         },
         {
           "name": "Git",
           "path": ".profile/assets/icons/skills/git-colored.svg",
           "link": "https://git-scm.com/"
-        },
-        {
-          "name": "PHP",
-          "path": ".profile/assets/icons/skills/php-colored.svg",
-          "link": "https://www.php.net/"
         }
       ],
-      "scripting": [
-        {
-          "name": "GNU Bash",
-          "path": ".profile/assets/icons/skills/gnubash.svg",
-          "link": "https://www.gnu.org/software/bash/"
-        }
-      ],
-      "editors": [
-        {
-          "name": "VS Code",
-          "path": ".profile/assets/icons/skills/visualstudiocode-colored.svg",
-          "link": "https://code.visualstudio.com/"
-        },
-        {
-          "name": "Vim",
-          "path": ".profile/assets/icons/skills/vim-colored.svg",
-          "link": "https://www.vim.org/"
-        },
-        {
-          "name": "Neovim",
-          "path": ".profile/assets/icons/skills/neovim-colored.svg",
-          "link": "https://neovim.io/"
-        }
-      ],
+      "scripting": [],
+      "editors": [],
       "frontend": [],
       "backend": [],
       "software": [],
