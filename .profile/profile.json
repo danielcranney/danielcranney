@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:38:28.760Z",
+  "updatedAt": "2026-01-27T21:42:55.004Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -31,6 +31,16 @@
           "name": "Git",
           "path": ".profile/assets/icons/skills/git-colored.svg",
           "link": "https://git-scm.com/"
+        },
+        {
+          "name": "JavaScript",
+          "path": ".profile/assets/icons/skills/javascript-colored.svg",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        {
+          "name": "Kotlin",
+          "path": ".profile/assets/icons/skills/kotlin-colored.svg",
+          "link": "https://kotlinlang.org/"
         }
       ],
       "scripting": [],
