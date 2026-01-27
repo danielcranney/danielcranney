@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:59:23.111Z",
+  "updatedAt": "2026-01-27T22:05:40.317Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -26,6 +26,32 @@
           "name": "Dart",
           "path": ".profile/assets/icons/skills/dart-colored.svg",
           "link": "https://dart.dev/"
+        },
+        {
+          "name": "C",
+          "path": ".profile/assets/icons/skills/c-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
+        },
+        {
+          "name": "C++",
+          "path": ".profile/assets/icons/skills/cplusplus-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
+        },
+        {
+          "name": "C#",
+          "path": ".profile/assets/icons/skills/csharp-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+        },
+        {
+          "name": "Spring Boot",
+          "path": ".profile/assets/icons/skills/spring-boot-colored.svg",
+          "link": "https://spring.io/"
+        },
+        {
+          "name": "Coffeescript",
+          "path": ".profile/assets/icons/skills/coffeescript-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/coffeescript-colored-dark.svg",
+          "link": "https://coffeescript.org/"
         }
       ],
       "scripting": [],
