@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:24:33.584Z",
+  "updatedAt": "2026-01-27T21:37:26.687Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -43,12 +43,6 @@
           "link": "https://spring.io/"
         },
         {
-          "name": "Coffeescript",
-          "path": ".profile/assets/icons/skills/coffeescript-colored.svg",
-          "darkPath": ".profile/assets/icons/skills/coffeescript-colored-dark.svg",
-          "link": "https://coffeescript.org/"
-        },
-        {
           "name": "Dart",
           "path": ".profile/assets/icons/skills/dart-colored.svg",
           "link": "https://dart.dev/"
@@ -59,50 +53,9 @@
           "link": "https://git-scm.com/"
         },
         {
-          "name": "Go",
-          "path": ".profile/assets/icons/skills/go-colored.svg",
-          "link": "https://go.dev/doc/"
-        },
-        {
-          "name": "Java",
-          "path": ".profile/assets/icons/skills/java-colored.svg",
-          "link": "https://www.oracle.com/java/"
-        },
-        {
-          "name": "Rust",
-          "path": ".profile/assets/icons/skills/rust-colored.svg",
-          "darkPath": ".profile/assets/icons/skills/rust-colored-dark.svg",
-          "link": "https://www.rust-lang.org/"
-        },
-        {
-          "name": "Ruby",
-          "path": ".profile/assets/icons/skills/ruby-colored.svg",
-          "link": "https://www.ruby-lang.org/en/"
-        },
-        {
-          "name": "rlang",
-          "path": ".profile/assets/icons/skills/rlang-colored.svg",
-          "link": "https://www.r-project.org/"
-        },
-        {
-          "name": "Python",
-          "path": ".profile/assets/icons/skills/python-colored.svg",
-          "link": "https://www.python.org/"
-        },
-        {
           "name": "PHP",
           "path": ".profile/assets/icons/skills/php-colored.svg",
           "link": "https://www.php.net/"
-        },
-        {
-          "name": "Kotlin",
-          "path": ".profile/assets/icons/skills/kotlin-colored.svg",
-          "link": "https://kotlinlang.org/"
-        },
-        {
-          "name": "Lua",
-          "path": ".profile/assets/icons/skills/lua-colored.svg",
-          "link": "https://lua.org/"
         }
       ],
       "scripting": [
