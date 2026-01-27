@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:49:49.593Z",
+  "updatedAt": "2026-01-27T21:56:20.067Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -52,6 +52,16 @@
           "name": "Python",
           "path": ".profile/assets/icons/skills/python-colored.svg",
           "link": "https://www.python.org/"
+        },
+        {
+          "name": "C#",
+          "path": ".profile/assets/icons/skills/csharp-colored.svg",
+          "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+        },
+        {
+          "name": "Spring Boot",
+          "path": ".profile/assets/icons/skills/spring-boot-colored.svg",
+          "link": "https://spring.io/"
         }
       ],
       "scripting": [],
