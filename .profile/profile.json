@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T22:05:40.317Z",
+  "updatedAt": "2026-01-27T22:11:52.669Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -23,11 +23,6 @@
     "skills": {
       "core": [
         {
-          "name": "Dart",
-          "path": ".profile/assets/icons/skills/dart-colored.svg",
-          "link": "https://dart.dev/"
-        },
-        {
           "name": "C",
           "path": ".profile/assets/icons/skills/c-colored.svg",
           "link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
@@ -41,30 +36,14 @@
           "name": "C#",
           "path": ".profile/assets/icons/skills/csharp-colored.svg",
           "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
-        },
-        {
-          "name": "Spring Boot",
-          "path": ".profile/assets/icons/skills/spring-boot-colored.svg",
-          "link": "https://spring.io/"
-        },
-        {
-          "name": "Coffeescript",
-          "path": ".profile/assets/icons/skills/coffeescript-colored.svg",
-          "darkPath": ".profile/assets/icons/skills/coffeescript-colored-dark.svg",
-          "link": "https://coffeescript.org/"
         }
       ],
       "scripting": [],
       "editors": [
         {
-          "name": "XCode",
-          "path": ".profile/assets/icons/skills/xcode-colored.svg",
-          "link": "https://developer.apple.com/xcode/"
-        },
-        {
-          "name": "Emacs",
-          "path": ".profile/assets/icons/skills/emacs-colored.svg",
-          "link": "https://www.gnu.org/software/emacs/"
+          "name": "Neovim",
+          "path": ".profile/assets/icons/skills/neovim-colored.svg",
+          "link": "https://neovim.io/"
         }
       ],
       "frontend": [],
