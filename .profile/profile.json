@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T21:46:33.049Z",
+  "updatedAt": "2026-01-27T21:49:49.593Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -23,29 +23,30 @@
     "skills": {
       "core": [
         {
+          "name": "Go",
+          "path": ".profile/assets/icons/skills/go-colored.svg",
+          "link": "https://go.dev/doc/"
+        },
+        {
+          "name": "Swift",
+          "path": ".profile/assets/icons/skills/swift-colored.svg",
+          "link": "https://developer.apple.com/swift/"
+        },
+        {
+          "name": "Rust",
+          "path": ".profile/assets/icons/skills/rust-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/rust-colored-dark.svg",
+          "link": "https://www.rust-lang.org/"
+        },
+        {
           "name": "rlang",
           "path": ".profile/assets/icons/skills/rlang-colored.svg",
           "link": "https://www.r-project.org/"
         },
         {
-          "name": "Git",
-          "path": ".profile/assets/icons/skills/git-colored.svg",
-          "link": "https://git-scm.com/"
-        },
-        {
-          "name": "JavaScript",
-          "path": ".profile/assets/icons/skills/javascript-colored.svg",
-          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        },
-        {
-          "name": "Kotlin",
-          "path": ".profile/assets/icons/skills/kotlin-colored.svg",
-          "link": "https://kotlinlang.org/"
-        },
-        {
-          "name": "Dart",
-          "path": ".profile/assets/icons/skills/dart-colored.svg",
-          "link": "https://dart.dev/"
+          "name": "PHP",
+          "path": ".profile/assets/icons/skills/php-colored.svg",
+          "link": "https://www.php.net/"
         },
         {
           "name": "Python",
