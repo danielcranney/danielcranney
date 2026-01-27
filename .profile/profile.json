@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-01-27T22:38:31.798Z",
+  "updatedAt": "2026-01-27T23:15:46.423Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -294,6 +294,8 @@
   },
   "portfolio": {
     "template": "minimal",
+    "font": "Montserrat",
+    "accentColor": "#3bf7e1",
     "options": {}
   }
 }
